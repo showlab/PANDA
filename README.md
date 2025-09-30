@@ -1,7 +1,7 @@
 # PANDA: Towards Generalist Video Anomaly Detection via Agentic AI Engineer
 
 <div align="center">
-  <img src="assets/panda.png" width="100"/>
+  <img src="assets/panda_logo.png" width="100"/>
 </div>
 
 [**NeurIPS 2025**] Accepted Paper  
@@ -38,7 +38,7 @@ PANDA introduces **four major capabilities** to realize training-free, generalis
 ## 🧩 System Framework
 
 <div align="center">
-  <img src="assets/panda_Pipeline.png" width="800"/>
+  <img src="assets/PANDA_Pipeline.png" width="800"/>
 </div>
 
 - **Perception**: VLM extracts environmental and video-specific cues.  
