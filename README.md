@@ -1,11 +1,11 @@
 # PANDA: Towards Generalist Video Anomaly Detection via Agentic AI Engineer
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/panda_logo.png" width="100"/>
-</div>
+</div> -->
+**Zhiwei Yang, Chen Gao, Mike Zheng Shou**  
 
 [**NeurIPS 2025**] Accepted Paper  
-**Zhiwei Yang, Chen Gao, Mike Zheng Shou**  
 
 ---
 
