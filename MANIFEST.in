@@ -1,0 +1,9 @@
+include README.md LICENSE pyproject.toml .env.example
+recursive-include assets *.png *.jpg *.jpeg *.svg
+recursive-include scripts *.py *.sh
+recursive-include data/annotations *.txt *.json
+recursive-include panda/resources *.yaml
+recursive-include panda/rag/rules *.json *.index
+prune docs
+prune tests
+global-exclude __pycache__ *.py[cod]

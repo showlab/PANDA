@@ -1,0 +1,2342 @@
+[
+  {
+    "Rule ID": "FIG-X001",
+    "Event Type": "Fighting",
+    "Rule Description": "Two students punch and grab each other in hallway",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X002",
+    "Event Type": "Fighting",
+    "Rule Description": "Multiple individuals form circle around two fighting students",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X003",
+    "Event Type": "Fighting",
+    "Rule Description": "One person slaps or pushes another triggering retaliation",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X004",
+    "Event Type": "Fighting",
+    "Rule Description": "Fight breaks out near vending machine or lockers",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X005",
+    "Event Type": "Fighting",
+    "Rule Description": "Kicking and grappling on the ground caught by security cam",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X006",
+    "Event Type": "Fighting",
+    "Rule Description": "Bystanders recording while fight escalates",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X007",
+    "Event Type": "Fighting",
+    "Rule Description": "Verbal argument turns physical with pushing and punching",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X008",
+    "Event Type": "Fighting",
+    "Rule Description": "One student repeatedly hits another near classroom entrance",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X009",
+    "Event Type": "Fighting",
+    "Rule Description": "Fighter removes backpack before physical conflict begins",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X010",
+    "Event Type": "Fighting",
+    "Rule Description": "Teacher attempts to intervene during ongoing scuffle",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X011",
+    "Event Type": "Fighting",
+    "Rule Description": "Fight continues after school bell rings",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X012",
+    "Event Type": "Fighting",
+    "Rule Description": "One person thrown into wall or window during altercation",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X013",
+    "Event Type": "Fighting",
+    "Rule Description": "Hair pulling, kicking and knee strikes visible in crowd",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X014",
+    "Event Type": "Fighting",
+    "Rule Description": "Student cornered and punched by group of others",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X015",
+    "Event Type": "Fighting",
+    "Rule Description": "Clothing torn during physical contact",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X016",
+    "Event Type": "Fighting",
+    "Rule Description": "Bystanders run away as altercation escalates",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X017",
+    "Event Type": "Fighting",
+    "Rule Description": "Fight initiates near cafeteria during lunch period",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X018",
+    "Event Type": "Fighting",
+    "Rule Description": "Student hits another with bag or object",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X019",
+    "Event Type": "Fighting",
+    "Rule Description": "Tables and chairs knocked over during fight",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "FIG-X020",
+    "Event Type": "Fighting",
+    "Rule Description": "Victim attempts to flee but attacker follows",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X001",
+    "Event Type": "Robbery",
+    "Rule Description": "Student forcibly takes belongings from another in hallway",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X002",
+    "Event Type": "Robbery",
+    "Rule Description": "One person grabs phone and flees toward exit",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X003",
+    "Event Type": "Robbery",
+    "Rule Description": "Robbery takes place inside restroom or locker area",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X004",
+    "Event Type": "Robbery",
+    "Rule Description": "Backpack unzipped and contents stolen during distraction",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X005",
+    "Event Type": "Robbery",
+    "Rule Description": "Suspect blocks victim and demands valuables",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X006",
+    "Event Type": "Robbery",
+    "Rule Description": "Group surrounds and steals from lone student",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X007",
+    "Event Type": "Robbery",
+    "Rule Description": "Threatening gestures precede item handover",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X008",
+    "Event Type": "Robbery",
+    "Rule Description": "Robber hides item under clothing before escape",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X009",
+    "Event Type": "Robbery",
+    "Rule Description": "Bag or wallet pulled forcefully from hands",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X010",
+    "Event Type": "Robbery",
+    "Rule Description": "Robbery occurs near dorm entry or stairwell",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X011",
+    "Event Type": "Robbery",
+    "Rule Description": "Suspect caught on camera placing stolen item in locker",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X012",
+    "Event Type": "Robbery",
+    "Rule Description": "Victim tries to resist and is pushed against wall",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X013",
+    "Event Type": "Robbery",
+    "Rule Description": "Thief targets laptop during unattended moment",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X014",
+    "Event Type": "Robbery",
+    "Rule Description": "Hand signals exchanged before coordinated theft",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X015",
+    "Event Type": "Robbery",
+    "Rule Description": "Victim runs after robber through hallway",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X016",
+    "Event Type": "Robbery",
+    "Rule Description": "Person seen tossing backpack after robbery",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X017",
+    "Event Type": "Robbery",
+    "Rule Description": "Theft during sports event or after class dismissal",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X018",
+    "Event Type": "Robbery",
+    "Rule Description": "Victim appears distressed and gestures for help",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X019",
+    "Event Type": "Robbery",
+    "Rule Description": "Thief hides face with hoodie or mask",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "ROB-X020",
+    "Event Type": "Robbery",
+    "Rule Description": "Robbery occurs under staircase or corner location",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X001",
+    "Event Type": "Chasing",
+    "Rule Description": "One student chases another through corridor",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X002",
+    "Event Type": "Chasing",
+    "Rule Description": "Running after person carrying stolen item",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X003",
+    "Event Type": "Chasing",
+    "Rule Description": "Chasing captured from multiple surveillance angles",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X004",
+    "Event Type": "Chasing",
+    "Rule Description": "Person sprints after someone who fled altercation",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X005",
+    "Event Type": "Chasing",
+    "Rule Description": "Teacher or security chases misbehaving student",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X006",
+    "Event Type": "Chasing",
+    "Rule Description": "Multiple students chase single individual on field",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X007",
+    "Event Type": "Chasing",
+    "Rule Description": "Victim tries to escape group pursuit",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X008",
+    "Event Type": "Chasing",
+    "Rule Description": "Running follows a confrontation or theft event",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X009",
+    "Event Type": "Chasing",
+    "Rule Description": "Chase leads outside of main school building",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X010",
+    "Event Type": "Chasing",
+    "Rule Description": "Camera records continuous pursuit from behind",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X011",
+    "Event Type": "Chasing",
+    "Rule Description": "Victim repeatedly looks back while running away",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X012",
+    "Event Type": "Chasing",
+    "Rule Description": "Bystanders startled as two people rush past",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X013",
+    "Event Type": "Chasing",
+    "Rule Description": "Pursuer abandons bag or item to increase speed",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X014",
+    "Event Type": "Chasing",
+    "Rule Description": "Footsteps heard before visual of chase appears",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X015",
+    "Event Type": "Chasing",
+    "Rule Description": "Person chased into stairwell or restroom",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X016",
+    "Event Type": "Chasing",
+    "Rule Description": "Chase interrupts ongoing classroom activity",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X017",
+    "Event Type": "Chasing",
+    "Rule Description": "Chasing around obstacles or furniture",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X018",
+    "Event Type": "Chasing",
+    "Rule Description": "Pursuer yells or gestures while running",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X019",
+    "Event Type": "Chasing",
+    "Rule Description": "Backpack bounces while individual flees scene",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "CHA-X020",
+    "Event Type": "Chasing",
+    "Rule Description": "Camera shakes as person holding it gives chase",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X001",
+    "Event Type": "Jumping",
+    "Rule Description": "Student jumps from staircase railing to floor",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X002",
+    "Event Type": "Jumping",
+    "Rule Description": "Jump over fence to avoid gate",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X003",
+    "Event Type": "Jumping",
+    "Rule Description": "Person jumps across table or desk row",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X004",
+    "Event Type": "Jumping",
+    "Rule Description": "Jumping on bench or classroom furniture",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X005",
+    "Event Type": "Jumping",
+    "Rule Description": "Jump down from locker bank or window edge",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X006",
+    "Event Type": "Jumping",
+    "Rule Description": "Acrobatic jump recorded in hallway by peers",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X007",
+    "Event Type": "Jumping",
+    "Rule Description": "Jump across puddle in corridor or courtyard",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X008",
+    "Event Type": "Jumping",
+    "Rule Description": "Jumping over trash can or obstruction indoors",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X009",
+    "Event Type": "Jumping",
+    "Rule Description": "Leap over bike rack or parking barrier",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X010",
+    "Event Type": "Jumping",
+    "Rule Description": "Reckless jumping behavior during class break",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X011",
+    "Event Type": "Jumping",
+    "Rule Description": "Student records jump from stair mid-landing",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X012",
+    "Event Type": "Jumping",
+    "Rule Description": "Jumping leads to injury or fall",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X013",
+    "Event Type": "Jumping",
+    "Rule Description": "Parkour-style jump captured in school building",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X014",
+    "Event Type": "Jumping",
+    "Rule Description": "Repeated jumps from same elevated spot",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X015",
+    "Event Type": "Jumping",
+    "Rule Description": "Student jumps to reach hanging object",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X016",
+    "Event Type": "Jumping",
+    "Rule Description": "Jump through open classroom window",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X017",
+    "Event Type": "Jumping",
+    "Rule Description": "Challenge-based jump posted on social media",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X018",
+    "Event Type": "Jumping",
+    "Rule Description": "Two students jump toward same ledge",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X019",
+    "Event Type": "Jumping",
+    "Rule Description": "Jumping while others encourage or film",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "JUM-X020",
+    "Event Type": "Jumping",
+    "Rule Description": "School staff warns student immediately after jump",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X001",
+    "Event Type": "Throwing",
+    "Rule Description": "Student throws object across classroom disrupting others",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X002",
+    "Event Type": "Throwing",
+    "Rule Description": "Throwing bottle or can in hallway during break",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X003",
+    "Event Type": "Throwing",
+    "Rule Description": "Object thrown at another person leading to conflict",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X004",
+    "Event Type": "Throwing",
+    "Rule Description": "Throwing sharp object from upper floor",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X005",
+    "Event Type": "Throwing",
+    "Rule Description": "Food or drink thrown in cafeteria triggering commotion",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X006",
+    "Event Type": "Throwing",
+    "Rule Description": "Person throws bag to block camera view",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X007",
+    "Event Type": "Throwing",
+    "Rule Description": "Multiple small items thrown during argument",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X008",
+    "Event Type": "Throwing",
+    "Rule Description": "Throwing rock or heavy item toward building",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X009",
+    "Event Type": "Throwing",
+    "Rule Description": "Throwing sports equipment into crowd",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X010",
+    "Event Type": "Throwing",
+    "Rule Description": "Teacher intervenes after student throws chair",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X011",
+    "Event Type": "Throwing",
+    "Rule Description": "Students dodge flying object in corridor",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X012",
+    "Event Type": "Throwing",
+    "Rule Description": "Student records themselves throwing item for prank",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X013",
+    "Event Type": "Throwing",
+    "Rule Description": "Throwing object out window during class",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X014",
+    "Event Type": "Throwing",
+    "Rule Description": "Aggressive object toss caught by surveillance",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X015",
+    "Event Type": "Throwing",
+    "Rule Description": "Repeated object throwing in shared zone",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X016",
+    "Event Type": "Throwing",
+    "Rule Description": "Person injured by thrown item in courtyard",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X017",
+    "Event Type": "Throwing",
+    "Rule Description": "Throwing object leads to alarm or alert",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X018",
+    "Event Type": "Throwing",
+    "Rule Description": "Student throws object while fleeing",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X019",
+    "Event Type": "Throwing",
+    "Rule Description": "Object hits door or breaks window after throw",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "THR-X020",
+    "Event Type": "Throwing",
+    "Rule Description": "Throwing near electronics or fire hazard area",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X001",
+    "Event Type": "Running",
+    "Rule Description": "Student sprints down hallway during class period",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X002",
+    "Event Type": "Running",
+    "Rule Description": "Multiple students running in courtyard without supervision",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X003",
+    "Event Type": "Running",
+    "Rule Description": "Running inside library or quiet zones",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X004",
+    "Event Type": "Running",
+    "Rule Description": "Student runs into staff area without permission",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X005",
+    "Event Type": "Running",
+    "Rule Description": "Running during emergency drill or fire alarm",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X006",
+    "Event Type": "Running",
+    "Rule Description": "Chase-like running near restroom area",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X007",
+    "Event Type": "Running",
+    "Rule Description": "Repeated hallway running behavior caught on camera",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X008",
+    "Event Type": "Running",
+    "Rule Description": "Running causes slipping or bumping into peers",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X009",
+    "Event Type": "Running",
+    "Rule Description": "Student runs while glancing backward",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X010",
+    "Event Type": "Running",
+    "Rule Description": "Running into vehicle or bike zone from building",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X011",
+    "Event Type": "Running",
+    "Rule Description": "Run toward exit gate while holding object",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X012",
+    "Event Type": "Running",
+    "Rule Description": "Person runs up/down staircase dangerously fast",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X013",
+    "Event Type": "Running",
+    "Rule Description": "Running across basketball court during class",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X014",
+    "Event Type": "Running",
+    "Rule Description": "Sudden running after bell rings or signal",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X015",
+    "Event Type": "Running",
+    "Rule Description": "Unsupervised running late at night on campus",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X016",
+    "Event Type": "Running",
+    "Rule Description": "Running results in object drop or crash",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X017",
+    "Event Type": "Running",
+    "Rule Description": "Others startled by unexpected runner",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X018",
+    "Event Type": "Running",
+    "Rule Description": "Security guard alerted due to suspicious sprint",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X019",
+    "Event Type": "Running",
+    "Rule Description": "Person runs into classroom then disappears",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "RUN-X020",
+    "Event Type": "Running",
+    "Rule Description": "Running triggers camera motion alert",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X001",
+    "Event Type": "Dropping",
+    "Rule Description": "Suspicious item dropped in hallway and left unattended",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X002",
+    "Event Type": "Dropping",
+    "Rule Description": "Object dropped while individual flees",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X003",
+    "Event Type": "Dropping",
+    "Rule Description": "Student drops bag in restricted area",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X004",
+    "Event Type": "Dropping",
+    "Rule Description": "Dropping object through stairwell or ledge",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X005",
+    "Event Type": "Dropping",
+    "Rule Description": "Item dropped into trash, followed by quick departure",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X006",
+    "Event Type": "Dropping",
+    "Rule Description": "Dropping electronics or tools near locker",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X007",
+    "Event Type": "Dropping",
+    "Rule Description": "Unusual object left on floor during rush",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X008",
+    "Event Type": "Dropping",
+    "Rule Description": "Item quietly placed and walked away from",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X009",
+    "Event Type": "Dropping",
+    "Rule Description": "Drop happens during confrontation or chase",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X010",
+    "Event Type": "Dropping",
+    "Rule Description": "Dropping chemical or smoking item in restroom",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X011",
+    "Event Type": "Dropping",
+    "Rule Description": "Backpack falls open, exposing unusual contents",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X012",
+    "Event Type": "Dropping",
+    "Rule Description": "Object dropped near building exit with no retrieval",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X013",
+    "Event Type": "Dropping",
+    "Rule Description": "Heavy object dropped and abandoned in hallway",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X014",
+    "Event Type": "Dropping",
+    "Rule Description": "Person appears to check surroundings before drop",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X015",
+    "Event Type": "Dropping",
+    "Rule Description": "Item dropped then quickly relocated",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X016",
+    "Event Type": "Dropping",
+    "Rule Description": "Drop captured by two consecutive cameras",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X017",
+    "Event Type": "Dropping",
+    "Rule Description": "Same individual seen dropping object multiple times",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X018",
+    "Event Type": "Dropping",
+    "Rule Description": "Security notified after unusual drop captured",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X019",
+    "Event Type": "Dropping",
+    "Rule Description": "Drop occurs near electrical or flammable zone",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "DRO-X020",
+    "Event Type": "Dropping",
+    "Rule Description": "Dropped object retrieved by different person later",
+    "Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus corridors, stairways, classrooms, courtyards, and entrances"
+  },
+  {
+    "Rule ID": "MOT-X001",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X002",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X003",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X004",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X005",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X006",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X007",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X008",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X009",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X010",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X011",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X012",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X013",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X014",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X015",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X016",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X017",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X018",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X019",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "MOT-X020",
+    "Event Type": "Motorcycle",
+    "Rule Description": "Presence of a motorcycle within any campus area is considered anomalous, regardless of motion or rider behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X001",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X002",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X003",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X004",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X005",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X006",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X007",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X008",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X009",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X010",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X011",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X012",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X013",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X014",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X015",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X016",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X017",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X018",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X019",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "SKA-X020",
+    "Event Type": "Skateboard",
+    "Rule Description": "Presence of a skateboard anywhere on campus is treated as an anomaly, even if not in use.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X001",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X002",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X003",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X004",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X005",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X006",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X007",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X008",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X009",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X010",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X011",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X012",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X013",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X014",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X015",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X016",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X017",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X018",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X019",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within anywhere on campus is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "CAR-X020",
+    "Event Type": "Car",
+    "Rule Description": "Any car entering or present within campus pedestrian zones is considered abnormal activity.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X001",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X002",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X003",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X004",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X005",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X006",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X007",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X008",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X009",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X010",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X011",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X012",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X013",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X014",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X015",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X016",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X017",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X018",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X019",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "GUN-X020",
+    "Event Type": "Gun",
+    "Rule Description": "Any visible or suspected firearm on school grounds is an immediate anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X001",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X002",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X003",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X004",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X005",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X006",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X007",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X008",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X009",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X010",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X011",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X012",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X013",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X014",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X015",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X016",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X017",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X018",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X019",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "LOI-X020",
+    "Event Type": "Loitering",
+    "Rule Description": "Extended idle presence in any campus area without clear purpose is flagged as loitering anomaly.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X001",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X002",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X003",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X004",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X005",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X006",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X007",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X008",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X009",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X010",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X011",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X012",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X013",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X014",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X015",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X016",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X017",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X018",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X019",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  },
+  {
+    "Rule ID": "BIC-X020",
+    "Event Type": "Bicycle",
+    "Rule Description": "Riding or parking a bicycle in particular campus is treated as violation behavior.",
+    "Applicable Scenes": "Any campus location, including walkways, classrooms, dormitories, or courtyards",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus zones where such presence is unexpected or restricted"
+  }
+]

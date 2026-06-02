@@ -1,0 +1,6 @@
+# Default local OpenAI-compatible VLM endpoint.
+# Override the full registry with VLM_ENDPOINTS JSON or individual VLM_ENDPOINT_* variables.
+qwen2_5_7b_v0:
+  base_url: "http://127.0.0.1:8000/v1"
+  api_key: "EMPTY"
+  model: "Qwen/Qwen2.5-VL-7B-Instruct"

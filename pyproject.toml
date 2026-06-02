@@ -1,0 +1,87 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "panda-neurips2025"
+version = "1.0.0"
+description = "PANDA: Towards Generalist Video Anomaly Detection via Agentic AI Engineer — NeurIPS 2025 code release"
+readme = "README.md"
+license = "Apache-2.0"
+license-files = ["LICENSE"]
+authors = [
+    {name = "Zhiwei Yang"},
+    {name = "Chen Gao"},
+    {name = "Mike Zheng Shou"},
+]
+keywords = ["video-anomaly-detection", "vlm", "multi-agent", "langgraph", "rag"]
+classifiers = [
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+requires-python = ">=3.10"
+dependencies = [
+    "pyyaml>=6.0",
+    "python-dotenv>=1.0",
+    "numpy>=1.26",
+    "scikit-learn>=1.3",
+]
+
+[project.urls]
+Homepage = "https://github.com/showlab/PANDA"
+Repository = "https://github.com/showlab/PANDA"
+Paper = "https://arxiv.org/abs/2509.26386"
+Issues = "https://github.com/showlab/PANDA/issues"
+
+[project.optional-dependencies]
+agents = [
+    "langgraph>=0.2",
+    "openai>=1.0",
+    "google-genai>=1.0",
+]
+rag = [
+    "numpy>=1.26",
+    "faiss-cpu>=1.9",
+    "sentence-transformers>=3.0,<6",
+]
+video = [
+    "numpy>=1.26",
+    "opencv-python>=4.10",
+    "Pillow>=10.0",
+]
+eval = [
+    "tqdm>=4.66",
+]
+vision = [
+    "torch>=2.0",
+    "torchvision>=0.16",
+    "transformers>=4.45,<5",
+    "ultralytics>=8.3,<9",
+    "requests>=2.31",
+]
+
+[project.scripts]
+panda = "panda.cli:main"
+panda-eval = "panda.evaluation.runner:main"
+panda-merge = "panda.evaluation.merge_results:main"
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+include = ["panda*"]
+
+[tool.setuptools.package-data]
+"panda.resources" = ["*.yaml"]
+"panda.rag.rules" = ["*.json", "*.index"]
+
+[tool.ruff]
+target-version = "py310"
+line-length = 88
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]

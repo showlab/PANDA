@@ -1,0 +1,272 @@
+[
+  {
+    "Rule ID": "CYC-X001",
+    "Event Type": "Cycling on Sidewalk or Square",
+    "Rule Description": "Bicycle ridden directly toward camera on pedestrian path",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CYC-X002",
+    "Event Type": "Cycling on Sidewalk or Square",
+    "Rule Description": "Cyclist moving in wrong direction on busy sidewalk",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CYC-X003",
+    "Event Type": "Cycling on Sidewalk or Square",
+    "Rule Description": "Student rides bicycle against walking flow on plaza",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CYC-X004",
+    "Event Type": "Cycling on Sidewalk or Square",
+    "Rule Description": "Bicycle nearly collides with pedestrian on sidewalk",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CYC-X005",
+    "Event Type": "Cycling on Sidewalk or Square",
+    "Rule Description": "Cyclist swerves through crowd on walking plaza",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CYC-X006",
+    "Event Type": "Cycling on Sidewalk or Square",
+    "Rule Description": "Bike enters walking square despite 'no cycling' sign",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CYC-X007",
+    "Event Type": "Cycling on Sidewalk or Square",
+    "Rule Description": "Riding through campus square during break rush hour",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CYC-X008",
+    "Event Type": "Cycling on Sidewalk or Square",
+    "Rule Description": "Cyclist passes dangerously close to standing group",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CYC-X009",
+    "Event Type": "Cycling on Sidewalk or Square",
+    "Rule Description": "Multiple bicycles riding side-by-side on walkway",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CYC-X010",
+    "Event Type": "Cycling on Sidewalk or Square",
+    "Rule Description": "Reverse cycling through narrow campus sidewalk",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "SKA-X001",
+    "Event Type": "Skateboarding on Sidewalk or Square",
+    "Rule Description": "Person skateboarding through main plaza crowd",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "SKA-X002",
+    "Event Type": "Skateboarding on Sidewalk or Square",
+    "Rule Description": "Skater performs trick near seated students on sidewalk",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "SKA-X003",
+    "Event Type": "Skateboarding on Sidewalk or Square",
+    "Rule Description": "Skateboarding against pedestrian flow in square",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "SKA-X004",
+    "Event Type": "Skateboarding on Sidewalk or Square",
+    "Rule Description": "Rapid skating movement causes people to dodge",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "SKA-X005",
+    "Event Type": "Skateboarding on Sidewalk or Square",
+    "Rule Description": "Skating occurs despite clear 'no skating' signage",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "SKA-X006",
+    "Event Type": "Skateboarding on Sidewalk or Square",
+    "Rule Description": "Skateboarder collides with trash bin in walkway",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "SKA-X007",
+    "Event Type": "Skateboarding on Sidewalk or Square",
+    "Rule Description": "Multiple skaters create disruption in gathering zone",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "SKA-X008",
+    "Event Type": "Skateboarding on Sidewalk or Square",
+    "Rule Description": "Skating leads to drop or object scattering in square",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "SKA-X009",
+    "Event Type": "Skateboarding on Sidewalk or Square",
+    "Rule Description": "Person uses skateboard to bypass walking security area",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "SKA-X010",
+    "Event Type": "Skateboarding on Sidewalk or Square",
+    "Rule Description": "Skater enters from grass into main pedestrian road",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CAR-X001",
+    "Event Type": "Car Intrusion into Sidewalk or Square",
+    "Rule Description": "Car drives into walking plaza area without permit",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CAR-X002",
+    "Event Type": "Car Intrusion into Sidewalk or Square",
+    "Rule Description": "Vehicle parks partially on sidewalk near square",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CAR-X003",
+    "Event Type": "Car Intrusion into Sidewalk or Square",
+    "Rule Description": "Car reverses dangerously into pedestrian pathway",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CAR-X004",
+    "Event Type": "Car Intrusion into Sidewalk or Square",
+    "Rule Description": "Speeding vehicle enters from side gate into plaza",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CAR-X005",
+    "Event Type": "Car Intrusion into Sidewalk or Square",
+    "Rule Description": "Unattended car sits in middle of walkway",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CAR-X006",
+    "Event Type": "Car Intrusion into Sidewalk or Square",
+    "Rule Description": "Car blocks primary pedestrian entrance to square",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CAR-X007",
+    "Event Type": "Car Intrusion into Sidewalk or Square",
+    "Rule Description": "Driver maneuvers around bollard to enter sidewalk",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CAR-X008",
+    "Event Type": "Car Intrusion into Sidewalk or Square",
+    "Rule Description": "Car enters square zone meant for ceremonies or gatherings",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CAR-X009",
+    "Event Type": "Car Intrusion into Sidewalk or Square",
+    "Rule Description": "Vehicle horn disrupts people walking in group",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  },
+  {
+    "Rule ID": "CAR-X010",
+    "Event Type": "Car Intrusion into Sidewalk or Square",
+    "Rule Description": "Car exits square while people step aside quickly",
+    "Applicable Scenes": "Campus sidewalks, public walking squares, shared pedestrian routes",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalks, plazas, campus front squares, entrances to pedestrian zones"
+  }
+]

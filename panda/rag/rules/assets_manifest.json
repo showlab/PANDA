@@ -1,0 +1,365 @@
+{
+  "manifest_version": 1,
+  "schema": {
+    "rule_identity": [
+      "Event Type",
+      "Rule ID"
+    ],
+    "legacy_identity": "Rule ID is globally unique when Event Type is absent",
+    "scene_fields": {
+      "Applicable Scenes": "General scene scope",
+      "Specific Applicable Scenes": "Concrete applicable scenes; falls back to Applicable Scenes only when absent"
+    },
+    "rule_order": "Original JSON array order",
+    "asset_serialization": "Original file bytes"
+  },
+  "default_datasets": {
+    "ucf": {
+      "json": "ucf_anomaly_rules_20.json",
+      "index": "ucf_anomaly_rules_faiss_20.index"
+    },
+    "xd": {
+      "json": "xd_anomaly_rules_20.json",
+      "index": "xd_anomaly_rules_faiss_20.index"
+    },
+    "ub": {
+      "json": "ub_train_anomaly_rules_20.json",
+      "index": "ub_train_anomaly_rules_faiss_20.index"
+    },
+    "sht": {
+      "json": "sht_anomaly_rules_20.json",
+      "index": "sht_anomaly_rules_faiss_20.index"
+    },
+    "avenue": {
+      "json": "avenue_anomaly_rules_10.json",
+      "index": "avenue_anomaly_rules_faiss_10.index"
+    },
+    "ped2": {
+      "json": "ped2_anomaly_rules_10.json",
+      "index": "ped2_anomaly_rules_faiss_10.index"
+    },
+    "csad": {
+      "json": "CSAD_anomaly_rules_20.json",
+      "index": "CSAD_anomaly_rules_faiss_20.index"
+    }
+  },
+  "embedding": {
+    "model_id": "sentence-transformers/all-MiniLM-L6-v2",
+    "verification_revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+    "dimension": 384,
+    "dtype": "float32",
+    "device_for_verification": "cpu",
+    "model_files": [
+      {
+        "file": "modules.json",
+        "bytes": 349,
+        "sha256": "84e40c8e006c9b1d6c122e02cba9b02458120b5fb0c87b746c41e0207cf642cf",
+        "authoritative_hash_verified": true
+      },
+      {
+        "file": "config.json",
+        "bytes": 612,
+        "sha256": "953f9c0d463486b10a6871cc2fd59f223b2c70184f49815e7efbcab5d8908b41",
+        "authoritative_hash_verified": true
+      },
+      {
+        "file": "config_sentence_transformers.json",
+        "bytes": 116,
+        "sha256": "061ca9d39661d6c6d6de5ba27f79a1cd5770ea247f8d46412a68a498dc5ac9f3",
+        "authoritative_hash_verified": true
+      },
+      {
+        "file": "sentence_bert_config.json",
+        "bytes": 53,
+        "sha256": "fc1993fde0a95c24ec6c022539d41cf6e2f7c9721e5415d6fb6897472a9cd4b7",
+        "authoritative_hash_verified": true
+      },
+      {
+        "file": "1_Pooling/config.json",
+        "bytes": 190,
+        "sha256": "4be450dde3b0273bb9787637cfbd28fe04a7ba6ab9d36ac48e92b11e350ffc23",
+        "authoritative_hash_verified": true
+      },
+      {
+        "file": "model.safetensors",
+        "bytes": 90868376,
+        "sha256": "53aa51172d142c89d9012cce15ae4d6cc0ca6895895114379cacb4fab128d9db",
+        "authoritative_hash_verified": true
+      },
+      {
+        "file": "tokenizer.json",
+        "bytes": 466247,
+        "sha256": "be50c3628f2bf5bb5e3a7f17b1f74611b2561a3a27eeab05e5aa30f411572037",
+        "authoritative_hash_verified": true
+      },
+      {
+        "file": "tokenizer_config.json",
+        "bytes": 350,
+        "sha256": "acb92769e8195aabd29b7b2137a9e6d6e25c476a4f15aa4355c233426c61576b",
+        "authoritative_hash_verified": true
+      },
+      {
+        "file": "special_tokens_map.json",
+        "bytes": 112,
+        "sha256": "303df45a03609e4ead04bc3dc1536d0ab19b5358db685b6f3da123d05ec200e3",
+        "authoritative_hash_verified": true
+      },
+      {
+        "file": "vocab.txt",
+        "bytes": 231508,
+        "sha256": "07eced375cec144d27c900241f3e339478dec958f92fddbc551f295c992038a3",
+        "authoritative_hash_verified": true
+      },
+      {
+        "file": "README.md",
+        "bytes": 10502,
+        "sha256": "dcd602d2fd35c203a247304a06fec6654a12f7941b739f9221a064fe8dc3b7f0",
+        "authoritative_hash_verified": true
+      }
+    ],
+    "text_template": "{Rule Description} (Scene: {Specific Applicable Scenes}, Type: {Event Type})",
+    "encode_kwargs": {
+      "convert_to_numpy": true
+    },
+    "index_type": "IndexFlatL2",
+    "metric": "squared_l2",
+    "atol": 1e-05,
+    "rtol": 0.0001,
+    "vector_pairing": "Re-encode every JSON row and compare to the corresponding stored index vector",
+    "tool": "scripts/build_rule_indexes.py"
+  },
+  "reference_runtime": {
+    "faiss-cpu": "1.11.0",
+    "sentence-transformers": "6.3.0",
+    "torch": "2.15.0",
+    "transformers": "5.23.0",
+    "numpy": "2.5.5"
+  },
+  "rule_collections": [
+    {
+      "file": "CSAD_anomaly_rules_20.json",
+      "sha256": "2b43fe4ce5ac8141e620760a0f8ccf2f942a1dd2d1c15f30e1dd5b49f0ad4f3a",
+      "bytes": 107752,
+      "rule_count": 280,
+      "event_type_count": 15,
+      "index": "CSAD_anomaly_rules_faiss_20.index"
+    },
+    {
+      "file": "avenue_anomaly_rules_10.json",
+      "sha256": "0302017f7295d4e73fa10417a83128ed28d930b6ec9303763778031bd7455a7e",
+      "bytes": 24899,
+      "rule_count": 60,
+      "event_type_count": 6,
+      "index": "avenue_anomaly_rules_faiss_10.index"
+    },
+    {
+      "file": "detailed_behavior_rules_refined_final.json",
+      "sha256": "968d8d0881d6632539ae9cfabfc9b5458d232c629dd416f9f7738ec462770f8f",
+      "bytes": 44673,
+      "rule_count": 130,
+      "event_type_count": 13,
+      "index": null
+    },
+    {
+      "file": "enhanced_detailed_behavior_rules.json",
+      "sha256": "f1f28637e02bea34273ee88e332f245f86b474cc3804105aa075db75a51520a2",
+      "bytes": 97076,
+      "rule_count": 260,
+      "event_type_count": 13,
+      "index": null
+    },
+    {
+      "file": "event_rules_10.json",
+      "sha256": "6a9c625f7428fe95cc593453eb311fba72ab3b691c7c1cc1bdf5460a6ca806ba",
+      "bytes": 45449,
+      "rule_count": 130,
+      "event_type_count": 13,
+      "index": "event_rules_faiss_10.index"
+    },
+    {
+      "file": "ped2_anomaly_rules_10.json",
+      "sha256": "28bb2a39d06dc8c1e27f26a719a5839cf8d9c588aa9005e2551d4a80e69679b2",
+      "bytes": 12496,
+      "rule_count": 30,
+      "event_type_count": 3,
+      "index": "ped2_anomaly_rules_faiss_10.index"
+    },
+    {
+      "file": "sht_anomaly_rules_20.json",
+      "sha256": "d54fa439f9cd32c01c846f142584ba14149590e403efd1e059da669defdb1a92",
+      "bytes": 105261,
+      "rule_count": 260,
+      "event_type_count": 13,
+      "index": "sht_anomaly_rules_faiss_20.index"
+    },
+    {
+      "file": "ub_anomaly_rules_20.json",
+      "sha256": "83a84afde79ec4304b6cd2e8a5215813f7f0f2dc2fd4e61c41a8a3725cb4e5a6",
+      "bytes": 87448,
+      "rule_count": 240,
+      "event_type_count": 12,
+      "index": "ub_anomaly_rules_faiss_20.index"
+    },
+    {
+      "file": "ub_train_anomaly_rules_20.json",
+      "sha256": "a34d1a9f3d8688004ed532b053aa9e7bafa525eddc7e535dcf2135bef1a3f713",
+      "bytes": 45667,
+      "rule_count": 120,
+      "event_type_count": 6,
+      "index": "ub_train_anomaly_rules_faiss_20.index"
+    },
+    {
+      "file": "ucf_anomaly_rules_20.json",
+      "sha256": "b6ccb778794c5b0ef3cbf3abad968a8e4e4b6aed3861d53d04da442c7bf57e70",
+      "bytes": 98891,
+      "rule_count": 260,
+      "event_type_count": 13,
+      "index": "ucf_anomaly_rules_faiss_20.index"
+    },
+    {
+      "file": "xd_anomaly_rules_20.json",
+      "sha256": "1993ecd3c16f16ecb12339951044afef8da186a236c24594bab38633bc801142",
+      "bytes": 46157,
+      "rule_count": 120,
+      "event_type_count": 6,
+      "index": "xd_anomaly_rules_faiss_20.index"
+    }
+  ],
+  "indexes": [
+    {
+      "file": "CSAD_anomaly_rules_faiss_20.index",
+      "sha256": "1843a6db8d332e91a0b8fe63963a3a022ee5bccfa8d6eb1e356f28581ba99ba6",
+      "bytes": 430125,
+      "rules_file": "CSAD_anomaly_rules_20.json",
+      "d": 384,
+      "ntotal": 280,
+      "metric": "squared_l2",
+      "index_type": "IndexFlatL2",
+      "vector_order_verification": {
+        "all_rows_match": true,
+        "matched_rows": 280,
+        "max_absolute_error": 1.9837170839309692e-07
+      }
+    },
+    {
+      "file": "avenue_anomaly_rules_faiss_10.index",
+      "sha256": "43bf705f1fa5c9fa3625b6c1fe9d0050739f618798f6ec093cf562c1b7435fe4",
+      "bytes": 92205,
+      "rules_file": "avenue_anomaly_rules_10.json",
+      "d": 384,
+      "ntotal": 60,
+      "metric": "squared_l2",
+      "index_type": "IndexFlatL2",
+      "vector_order_verification": {
+        "all_rows_match": true,
+        "matched_rows": 60,
+        "max_absolute_error": 2.0116567611694336e-07
+      }
+    },
+    {
+      "file": "event_rules_faiss_10.index",
+      "sha256": "74d9c527341d1fcf6a5ac99ff17088d211107ee9bf9def366bc0eab4749d1f2f",
+      "bytes": 199725,
+      "rules_file": "event_rules_10.json",
+      "d": 384,
+      "ntotal": 130,
+      "metric": "squared_l2",
+      "index_type": "IndexFlatL2",
+      "vector_order_verification": {
+        "all_rows_match": true,
+        "matched_rows": 130,
+        "max_absolute_error": 1.9837170839309692e-07
+      }
+    },
+    {
+      "file": "ped2_anomaly_rules_faiss_10.index",
+      "sha256": "04539cc47d347e14598d71079377aeae0a67bbefccfa278579193df10b55b67c",
+      "bytes": 46125,
+      "rules_file": "ped2_anomaly_rules_10.json",
+      "d": 384,
+      "ntotal": 30,
+      "metric": "squared_l2",
+      "index_type": "IndexFlatL2",
+      "vector_order_verification": {
+        "all_rows_match": true,
+        "matched_rows": 30,
+        "max_absolute_error": 2.1327286958694458e-07
+      }
+    },
+    {
+      "file": "sht_anomaly_rules_faiss_20.index",
+      "sha256": "20c7ad99294aa900bac93df25acc72b75a99cf0275051f5ea4c8fc0962400f04",
+      "bytes": 399405,
+      "rules_file": "sht_anomaly_rules_20.json",
+      "d": 384,
+      "ntotal": 260,
+      "metric": "squared_l2",
+      "index_type": "IndexFlatL2",
+      "vector_order_verification": {
+        "all_rows_match": true,
+        "matched_rows": 260,
+        "max_absolute_error": 2.4586915969848633e-07
+      }
+    },
+    {
+      "file": "ub_anomaly_rules_faiss_20.index",
+      "sha256": "4afb79436b6952e36145557248cb5fe6edfcdc58dfe83ac82c74b99738d68b95",
+      "bytes": 368685,
+      "rules_file": "ub_anomaly_rules_20.json",
+      "d": 384,
+      "ntotal": 240,
+      "metric": "squared_l2",
+      "index_type": "IndexFlatL2",
+      "vector_order_verification": {
+        "all_rows_match": true,
+        "matched_rows": 240,
+        "max_absolute_error": 2.3283064365386963e-07
+      }
+    },
+    {
+      "file": "ub_train_anomaly_rules_faiss_20.index",
+      "sha256": "9346a16695e97223270a55b4e640d4b1d7bd207c76e72d4cad43f60b4afa136b",
+      "bytes": 184365,
+      "rules_file": "ub_train_anomaly_rules_20.json",
+      "d": 384,
+      "ntotal": 120,
+      "metric": "squared_l2",
+      "index_type": "IndexFlatL2",
+      "vector_order_verification": {
+        "all_rows_match": true,
+        "matched_rows": 120,
+        "max_absolute_error": 1.862645149230957e-07
+      }
+    },
+    {
+      "file": "ucf_anomaly_rules_faiss_20.index",
+      "sha256": "31d0120ef4e350efe6e95342d7876a6fb9aeededc3893ce6e03017b377feb551",
+      "bytes": 399405,
+      "rules_file": "ucf_anomaly_rules_20.json",
+      "d": 384,
+      "ntotal": 260,
+      "metric": "squared_l2",
+      "index_type": "IndexFlatL2",
+      "vector_order_verification": {
+        "all_rows_match": true,
+        "matched_rows": 260,
+        "max_absolute_error": 2.1327286958694458e-07
+      }
+    },
+    {
+      "file": "xd_anomaly_rules_faiss_20.index",
+      "sha256": "e447d9363ecf1090f82dadf9e270199fa6ffe113d0c90541c5d23d5da936a400",
+      "bytes": 184365,
+      "rules_file": "xd_anomaly_rules_20.json",
+      "d": 384,
+      "ntotal": 120,
+      "metric": "squared_l2",
+      "index_type": "IndexFlatL2",
+      "vector_order_verification": {
+        "all_rows_match": true,
+        "matched_rows": 120,
+        "max_absolute_error": 1.825392246246338e-07
+      }
+    }
+  ]
+}

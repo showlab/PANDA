@@ -1,0 +1,211 @@
+abnormal_scene_10_scenario_1.mp4 0 450
+abnormal_scene_10_scenario_3.mp4 90 270 320 490
+abnormal_scene_10_scenario_4.mp4 0 240 242 450
+abnormal_scene_10_scenario_5.mp4 0 272
+abnormal_scene_10_scenario_6.mp4 0 500
+abnormal_scene_10_scenario_7.mp4 100 205 300 398
+abnormal_scene_10_scenario_8.mp4 189 450
+abnormal_scene_11_scenario_1.mp4 0 69 109 450
+abnormal_scene_11_scenario_1_fog.mp4 51 450
+abnormal_scene_11_scenario_2.mp4 27 103 111 172
+abnormal_scene_11_scenario_2_fog.mp4 8 45 114 170
+abnormal_scene_11_scenario_8.mp4 125 339
+abnormal_scene_11_scenario_9.mp4 93 302
+abnormal_scene_12_scenario_1.mp4 0 229
+abnormal_scene_12_scenario_1_smoke.mp4 0 450
+abnormal_scene_12_scenario_2.mp4 80 263 310 450
+abnormal_scene_12_scenario_3.mp4 37 200 333 450
+abnormal_scene_12_scenario_4.mp4 0 203 237 450
+abnormal_scene_12_scenario_8.mp4 138 450
+abnormal_scene_12_scenario_9.mp4 168 460
+abnormal_scene_13_scenario_1.mp4 40 450
+abnormal_scene_13_scenario_1_fog.mp4 68 450
+abnormal_scene_13_scenario_2_fog.mp4 0 450
+abnormal_scene_13_scenario_3.mp4 0 450
+abnormal_scene_13_scenario_3_fog.mp4 0 450
+abnormal_scene_13_scenario_4.mp4 0 450
+abnormal_scene_13_scenario_4_fog.mp4 0 230
+abnormal_scene_13_scenario_5.mp4 0 183
+abnormal_scene_13_scenario_8.mp4 40 175 235 355
+abnormal_scene_13_scenario_9.mp4 0 450
+abnormal_scene_14_scenario_5.mp4 47 450
+abnormal_scene_14_scenario_6.mp4 0 450
+abnormal_scene_14_scenario_7.mp4 0 450
+abnormal_scene_14_scenario_8.mp4 0 436
+abnormal_scene_15_scenario_1.mp4 12 146
+abnormal_scene_15_scenario_2.mp4 238 354 415 450
+abnormal_scene_15_scenario_3.mp4 6 233
+abnormal_scene_15_scenario_4.mp4 175 208
+abnormal_scene_15_scenario_5.mp4 194 301 388 450
+abnormal_scene_15_scenario_6.mp4 173 450
+abnormal_scene_15_scenario_8.mp4 0 370
+abnormal_scene_15_scenario_9.mp4 0 450
+abnormal_scene_16_scenario_2.mp4 56 111 251 450
+abnormal_scene_16_scenario_3.mp4 31 208 255 430
+abnormal_scene_16_scenario_4.mp4 0 26 30 450
+abnormal_scene_17_scenario_1_smoke.mp4 0 450
+abnormal_scene_17_scenario_2.mp4 28 105
+abnormal_scene_17_scenario_2_fire.mp4 0 450
+abnormal_scene_17_scenario_4.mp4 72 450
+abnormal_scene_17_scenario_5.mp4 0 450
+abnormal_scene_17_scenario_6.mp4 0 450
+abnormal_scene_17_scenario_7.mp4 0 450
+abnormal_scene_17_scenario_9.mp4 0 41 210 450
+abnormal_scene_18_scenario_5.mp4 0 203 289 398
+abnormal_scene_18_scenario_6.mp4 0 270
+abnormal_scene_18_scenario_7.mp4 0 450
+abnormal_scene_19_scenario_5.mp4 25 100
+abnormal_scene_19_scenario_6.mp4 150 450
+abnormal_scene_19_scenario_7.mp4 0 245
+abnormal_scene_19_scenario_8.mp4 0 390
+abnormal_scene_1_scenario_1.mp4 41 109
+abnormal_scene_1_scenario_2.mp4 45 120
+abnormal_scene_1_scenario_4.mp4 57 192
+abnormal_scene_1_scenario_5.mp4 58 125
+abnormal_scene_1_scenario_6.mp4 31 90
+abnormal_scene_1_scenario_7.mp4 29 76
+abnormal_scene_1_scenario_8.mp4 29 82 84 138
+abnormal_scene_1_scenario_9.mp4 175 228
+abnormal_scene_20_scenario_1.mp4 0 78
+abnormal_scene_20_scenario_2.mp4 0 314 404 450
+abnormal_scene_20_scenario_3.mp4 0 230 280 450
+abnormal_scene_20_scenario_4.mp4 20 47 144 358
+abnormal_scene_21_scenario_1.mp4 35 136 160 450
+abnormal_scene_21_scenario_2.mp4 0 445
+abnormal_scene_21_scenario_3.mp4 0 450
+abnormal_scene_22_scenario_1.mp4 0 273
+abnormal_scene_22_scenario_2.mp4 91 450
+abnormal_scene_22_scenario_3.mp4 0 450
+abnormal_scene_22_scenario_4.mp4 0 271 284 284 294 450
+abnormal_scene_23_scenario_1.mp4 266 450
+abnormal_scene_23_scenario_2.mp4 98 198 294 373 383 392
+abnormal_scene_23_scenario_3.mp4 48 450
+abnormal_scene_23_scenario_4.mp4 254 450
+abnormal_scene_24_scenario_1.mp4 0 450
+abnormal_scene_24_scenario_2.mp4 180 450
+abnormal_scene_24_scenario_3.mp4 43 189 365 450
+abnormal_scene_24_scenario_4.mp4 365 450
+abnormal_scene_25_scenario_1.mp4 33 205 265 445
+abnormal_scene_25_scenario_3.mp4 0 450
+abnormal_scene_25_scenario_4.mp4 0 450
+abnormal_scene_26_scenario_1.mp4 0 272
+abnormal_scene_26_scenario_2.mp4 0 450
+abnormal_scene_26_scenario_3.mp4 72 250 289 450
+abnormal_scene_26_scenario_4.mp4 0 202
+abnormal_scene_27_scenario_1_smoke.mp4 0 450
+abnormal_scene_27_scenario_2.mp4 0 450
+abnormal_scene_27_scenario_2_fire.mp4 0 450
+abnormal_scene_27_scenario_3.mp4 289 450
+abnormal_scene_27_scenario_4.mp4 0 165 185 450
+abnormal_scene_28_scenario_1.mp4 0 59 356 450
+abnormal_scene_28_scenario_2.mp4 95 202 207 312 405 450
+abnormal_scene_28_scenario_3.mp4 125 198 270 450
+abnormal_scene_28_scenario_4.mp4 175 450
+abnormal_scene_29_scenario_1.mp4 278 450
+abnormal_scene_29_scenario_1_smoke.mp4 0 450
+abnormal_scene_29_scenario_2.mp4 93 264 323 450
+abnormal_scene_29_scenario_2_smoke.mp4 168 450
+abnormal_scene_29_scenario_3.mp4 0 241 269 450
+abnormal_scene_29_scenario_4.mp4 192 450
+abnormal_scene_2_scenario_1.mp4 40 193
+abnormal_scene_2_scenario_4.mp4 0 450
+abnormal_scene_2_scenario_5.mp4 0 460
+abnormal_scene_2_scenario_6.mp4 165 444
+abnormal_scene_3_scenario_1.mp4 34 154
+abnormal_scene_3_scenario_2.mp4 29 145
+abnormal_scene_3_scenario_6.mp4 166 450
+abnormal_scene_4_scenario_1.mp4 44 216
+abnormal_scene_4_scenario_1_fire.mp4 0 450
+abnormal_scene_4_scenario_2_fire.mp4 0 450
+abnormal_scene_4_scenario_4.mp4 97 263 324 450
+abnormal_scene_4_scenario_6.mp4 0 450
+abnormal_scene_5_scenario_1_smoke.mp4 0 450
+abnormal_scene_5_scenario_2_smoke.mp4 0 450
+abnormal_scene_5_scenario_4.mp4 0 460
+abnormal_scene_5_scenario_5.mp4 174 490
+abnormal_scene_5_scenario_7.mp4 0 460
+abnormal_scene_5_scenario_8.mp4 290 480
+abnormal_scene_6_scenario_2.mp4 36 265
+abnormal_scene_6_scenario_3.mp4 168 450
+abnormal_scene_6_scenario_8.mp4 169 450
+abnormal_scene_7_scenario_1.mp4 51 430
+abnormal_scene_7_scenario_10.mp4 0 450
+abnormal_scene_7_scenario_1_fire.mp4 0 450
+abnormal_scene_7_scenario_1_fog.mp4 177 450
+abnormal_scene_7_scenario_2.mp4 65 450
+abnormal_scene_7_scenario_2_fog.mp4 56 320
+abnormal_scene_7_scenario_2_smoke.mp4 0 450
+abnormal_scene_7_scenario_3.mp4 0 450
+abnormal_scene_7_scenario_3_fog.mp4 0 450
+abnormal_scene_7_scenario_4.mp4 90 450
+abnormal_scene_7_scenario_4_fog.mp4 121 450
+abnormal_scene_7_scenario_5.mp4 0 450
+abnormal_scene_7_scenario_6.mp4 0 205
+abnormal_scene_7_scenario_7.mp4 31 203 291 394
+abnormal_scene_7_scenario_8.mp4 28 116 272 349
+abnormal_scene_7_scenario_9.mp4 178 378
+abnormal_scene_8_scenario_1.mp4 35 100 190 445
+abnormal_scene_8_scenario_1_fog.mp4 169 445
+abnormal_scene_8_scenario_2.mp4 31 141
+abnormal_scene_8_scenario_2_fog.mp4 10 460
+abnormal_scene_8_scenario_3.mp4 0 321
+abnormal_scene_8_scenario_4.mp4 125 450
+abnormal_scene_8_scenario_5.mp4 0 460
+abnormal_scene_9_scenario_2_fog.mp4 0 390
+abnormal_scene_9_scenario_3.mp4 0 450
+abnormal_scene_9_scenario_4_fog.mp4 94 208 294 400
+abnormal_scene_9_scenario_7.mp4 0 450
+abnormal_scene_9_scenario_8.mp4 96 200 292 382
+normal_scene_10_scenario_2.mp4
+normal_scene_10_scenario_3.mp4
+normal_scene_10_scenario_8.mp4
+normal_scene_10_scenario_9.mp4
+normal_scene_11_scenario_2_fog.mp4
+normal_scene_11_scenario_4_fog.mp4
+normal_scene_12_scenario_2.mp4
+normal_scene_13_scenario_1_fog.mp4
+normal_scene_14_scenario_2.mp4
+normal_scene_14_scenario_4.mp4
+normal_scene_15_scenario_6.mp4
+normal_scene_17_scenario_2.mp4
+normal_scene_17_scenario_3_1.mp4
+normal_scene_17_scenario_4.mp4
+normal_scene_18_scenario_1.mp4
+normal_scene_18_scenario_4.mp4
+normal_scene_1_scenario1_10.mp4
+normal_scene_20_scenario_2.mp4
+normal_scene_20_scenario_4.mp4
+normal_scene_20_scenario_9.mp4
+normal_scene_21_scenario_2.mp4
+normal_scene_21_scenario_3.mp4
+normal_scene_21_scenario_5.mp4
+normal_scene_22_scenario_5.mp4
+normal_scene_23_scenario_4.mp4
+normal_scene_23_scenario_5.mp4
+normal_scene_23_scenario_7.mp4
+normal_scene_24_scenario_1.mp4
+normal_scene_24_scenario_6.mp4
+normal_scene_25_scenario_4.mp4
+normal_scene_25_scenario_7.mp4
+normal_scene_26_scenario_4.mp4
+normal_scene_26_scenario_8.mp4
+normal_scene_27_scenario_4.mp4
+normal_scene_28_scenario_2.mp4
+normal_scene_29_scenario_1.mp4
+normal_scene_29_scenario_6.mp4
+normal_scene_3_scenario_1.mp4
+normal_scene_3_scenario_5.mp4
+normal_scene_3_scenario_7.mp4
+normal_scene_4_scenario_1.mp4
+normal_scene_4_scenario_5.mp4
+normal_scene_4_scenario_8.mp4
+normal_scene_5_scenario_8.mp4
+normal_scene_7_scenario_3.mp4
+normal_scene_7_scenario_3_fog.mp4
+normal_scene_7_scenario_4_fog.mp4
+normal_scene_8_scenario_2_fog.mp4
+normal_scene_8_scenario_7.mp4
+normal_scene_9_scenario_1.mp4
+normal_scene_9_scenario_4_fog.mp4
+normal_scene_9_scenario_6.mp4
+normal_scene_9_scenario_8.mp4

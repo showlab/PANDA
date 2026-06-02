@@ -1,0 +1,2162 @@
+[
+  {
+    "Rule ID": "RUN-X001",
+    "Event Type": "running",
+    "Rule Description": "Individual sprints suddenly in a normally calm environment",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Parking lot, Office hallway, Train station"
+  },
+  {
+    "Rule ID": "RUN-X002",
+    "Event Type": "running",
+    "Rule Description": "Person runs away immediately after looking around suspiciously",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Train station, Parking lot, Shopping mall"
+  },
+  {
+    "Rule ID": "RUN-X003",
+    "Event Type": "running",
+    "Rule Description": "Running occurs indoors where walking is expected (e.g. mall, office)",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Shopping mall, Train station, Office hallway"
+  },
+  {
+    "Rule ID": "RUN-X004",
+    "Event Type": "running",
+    "Rule Description": "Multiple individuals begin running in same direction without cause",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Shopping mall, Parking lot, Office hallway"
+  },
+  {
+    "Rule ID": "RUN-X005",
+    "Event Type": "running",
+    "Rule Description": "Person seen running while others remain stationary",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Shopping mall, Parking lot, Office hallway"
+  },
+  {
+    "Rule ID": "RUN-X006",
+    "Event Type": "running",
+    "Rule Description": "Individual running while glancing backward frequently",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Parking lot, Train station, Office hallway"
+  },
+  {
+    "Rule ID": "RUN-X007",
+    "Event Type": "running",
+    "Rule Description": "Person carrying an object while running toward exit",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Office hallway, Parking lot, Train station"
+  },
+  {
+    "Rule ID": "RUN-X008",
+    "Event Type": "running",
+    "Rule Description": "Running occurs late at night in residential or commercial zone",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Parking lot, Train station, Office hallway"
+  },
+  {
+    "Rule ID": "RUN-X009",
+    "Event Type": "running",
+    "Rule Description": "Person runs and knocks over obstacles or signage",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Train station, Shopping mall, Parking lot"
+  },
+  {
+    "Rule ID": "RUN-X010",
+    "Event Type": "running",
+    "Rule Description": "Running in an area marked with 'No Running' signage",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Train station, Shopping mall, Office hallway"
+  },
+  {
+    "Rule ID": "RUN-X011",
+    "Event Type": "running",
+    "Rule Description": "Individual seen running after another who appears unaware",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Parking lot, Shopping mall, Office hallway"
+  },
+  {
+    "Rule ID": "RUN-X012",
+    "Event Type": "running",
+    "Rule Description": "Sudden transition from walking to sprinting without trigger",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Parking lot, Office hallway, Shopping mall"
+  },
+  {
+    "Rule ID": "RUN-X013",
+    "Event Type": "running",
+    "Rule Description": "Child running unattended in hazardous space (e.g. road, station)",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Shopping mall, Train station, Parking lot"
+  },
+  {
+    "Rule ID": "RUN-X014",
+    "Event Type": "running",
+    "Rule Description": "Running across lanes of traffic or active roads",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Shopping mall, Parking lot, Office hallway"
+  },
+  {
+    "Rule ID": "RUN-X015",
+    "Event Type": "running",
+    "Rule Description": "Running while hiding or shielding face",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Train station, Parking lot, Office hallway"
+  },
+  {
+    "Rule ID": "RUN-X016",
+    "Event Type": "running",
+    "Rule Description": "Person runs through staff-only or restricted area",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Shopping mall, Train station, Office hallway"
+  },
+  {
+    "Rule ID": "RUN-X017",
+    "Event Type": "running",
+    "Rule Description": "Runner bumps into others or causes crowd disruption",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Office hallway, Parking lot, Shopping mall"
+  },
+  {
+    "Rule ID": "RUN-X018",
+    "Event Type": "running",
+    "Rule Description": "Multiple camera angles show the same person fleeing",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Office hallway, Parking lot, Shopping mall"
+  },
+  {
+    "Rule ID": "RUN-X019",
+    "Event Type": "running",
+    "Rule Description": "Running from vehicle immediately after disembarking",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Office hallway, Shopping mall, Train station"
+  },
+  {
+    "Rule ID": "RUN-X020",
+    "Event Type": "running",
+    "Rule Description": "Unusual running pattern detected repeatedly in short timeframe",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Shopping mall, Train station, Parking lot"
+  },
+  {
+    "Rule ID": "HAV-X001",
+    "Event Type": "having a seizure",
+    "Rule Description": "Individual collapses suddenly and starts shaking uncontrollably",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalk, Classroom, Public library"
+  },
+  {
+    "Rule ID": "HAV-X002",
+    "Event Type": "having a seizure",
+    "Rule Description": "Repeated limb jerking motion with person lying on ground",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway station, Public library, Sidewalk"
+  },
+  {
+    "Rule ID": "HAV-X003",
+    "Event Type": "having a seizure",
+    "Rule Description": "Bystanders gather while one person remains immobile",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway station, Classroom, Public library"
+  },
+  {
+    "Rule ID": "HAV-X004",
+    "Event Type": "having a seizure",
+    "Rule Description": "Person\u2019s body stiffens and falls abruptly",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Public library, Subway station, Classroom"
+  },
+  {
+    "Rule ID": "HAV-X005",
+    "Event Type": "having a seizure",
+    "Rule Description": "Convulsions occur near dangerous objects (e.g. rails, escalator)",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Classroom, Public library, Subway station"
+  },
+  {
+    "Rule ID": "HAV-X006",
+    "Event Type": "having a seizure",
+    "Rule Description": "Seizure-like movement with eye-rolling or head twitching",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway station, Public library, Classroom"
+  },
+  {
+    "Rule ID": "HAV-X007",
+    "Event Type": "having a seizure",
+    "Rule Description": "Person falls and does not get up for extended time",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway station, Classroom, Public library"
+  },
+  {
+    "Rule ID": "HAV-X008",
+    "Event Type": "having a seizure",
+    "Rule Description": "Head or body banging against hard surface during episode",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalk, Public library, Subway station"
+  },
+  {
+    "Rule ID": "HAV-X009",
+    "Event Type": "having a seizure",
+    "Rule Description": "Person clutches chest or neck before collapsing",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway station, Classroom, Public library"
+  },
+  {
+    "Rule ID": "HAV-X010",
+    "Event Type": "having a seizure",
+    "Rule Description": "Involuntary body movement while sitting or leaning",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway station, Classroom, Public library"
+  },
+  {
+    "Rule ID": "HAV-X011",
+    "Event Type": "having a seizure",
+    "Rule Description": "Face or lips visibly discolored during seizure event",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Public library, Classroom, Sidewalk"
+  },
+  {
+    "Rule ID": "HAV-X012",
+    "Event Type": "having a seizure",
+    "Rule Description": "Crowd attempts to restrain or shield person during motion",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Public library, Classroom, Subway station"
+  },
+  {
+    "Rule ID": "HAV-X013",
+    "Event Type": "having a seizure",
+    "Rule Description": "Person in vehicle or chair showing seizure-like tremors",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway station, Public library, Classroom"
+  },
+  {
+    "Rule ID": "HAV-X014",
+    "Event Type": "having a seizure",
+    "Rule Description": "Incident triggers nearby people calling for help",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Public library, Classroom, Sidewalk"
+  },
+  {
+    "Rule ID": "HAV-X015",
+    "Event Type": "having a seizure",
+    "Rule Description": "Victim remains on ground long after initial collapse",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Sidewalk, Classroom, Subway station"
+  },
+  {
+    "Rule ID": "HAV-X016",
+    "Event Type": "having a seizure",
+    "Rule Description": "Sudden scream followed by collapse and spasms",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway station, Classroom, Public library"
+  },
+  {
+    "Rule ID": "HAV-X017",
+    "Event Type": "having a seizure",
+    "Rule Description": "Tonic-clonic seizure symptoms captured by fixed camera",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway station, Classroom, Sidewalk"
+  },
+  {
+    "Rule ID": "HAV-X018",
+    "Event Type": "having a seizure",
+    "Rule Description": "No aggressive behavior, but motor control visibly lost",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway station, Public library, Classroom"
+  },
+  {
+    "Rule ID": "HAV-X019",
+    "Event Type": "having a seizure",
+    "Rule Description": "Seizure happens in classroom, office, or transit area",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway station, Classroom, Public library"
+  },
+  {
+    "Rule ID": "HAV-X020",
+    "Event Type": "having a seizure",
+    "Rule Description": "Security alerted after repeated spasmodic motion detected",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway station, Public library, Classroom"
+  },
+  {
+    "Rule ID": "LAY-X001",
+    "Event Type": "laying down",
+    "Rule Description": "Person lying down in public space not intended for rest",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Convenience store, Building entrance, Restaurant lobby"
+  },
+  {
+    "Rule ID": "LAY-X002",
+    "Event Type": "laying down",
+    "Rule Description": "Lying motionless on sidewalk, road, or station floor",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Metro platform, Restaurant lobby, Building entrance"
+  },
+  {
+    "Rule ID": "LAY-X003",
+    "Event Type": "laying down",
+    "Rule Description": "Individual reclines fully inside hallway or shop entrance",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Convenience store, Building entrance, Restaurant lobby"
+  },
+  {
+    "Rule ID": "LAY-X004",
+    "Event Type": "laying down",
+    "Rule Description": "Lying down in front of elevator or escalator area",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Metro platform, Convenience store, Building entrance"
+  },
+  {
+    "Rule ID": "LAY-X005",
+    "Event Type": "laying down",
+    "Rule Description": "Individual remains horizontal for over 1 minute",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Building entrance, Metro platform, Restaurant lobby"
+  },
+  {
+    "Rule ID": "LAY-X006",
+    "Event Type": "laying down",
+    "Rule Description": "Lying down with no apparent belongings or protection",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Building entrance, Restaurant lobby, Convenience store"
+  },
+  {
+    "Rule ID": "LAY-X007",
+    "Event Type": "laying down",
+    "Rule Description": "Bystanders stepping over individual without engagement",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Metro platform, Restaurant lobby, Building entrance"
+  },
+  {
+    "Rule ID": "LAY-X008",
+    "Event Type": "laying down",
+    "Rule Description": "Person lying in corner or near trash bins",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Metro platform, Restaurant lobby, Convenience store"
+  },
+  {
+    "Rule ID": "LAY-X009",
+    "Event Type": "laying down",
+    "Rule Description": "Lying position blocking access to doorway or passage",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Convenience store, Building entrance, Metro platform"
+  },
+  {
+    "Rule ID": "LAY-X010",
+    "Event Type": "laying down",
+    "Rule Description": "Sleeping posture observed in high-traffic zones",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Restaurant lobby, Convenience store, Metro platform"
+  },
+  {
+    "Rule ID": "LAY-X011",
+    "Event Type": "laying down",
+    "Rule Description": "Lying under furniture, table, or counter in odd posture",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Convenience store, Restaurant lobby, Building entrance"
+  },
+  {
+    "Rule ID": "LAY-X012",
+    "Event Type": "laying down",
+    "Rule Description": "Person lying next to spilled items or knocked-over objects",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Convenience store, Metro platform, Restaurant lobby"
+  },
+  {
+    "Rule ID": "LAY-X013",
+    "Event Type": "laying down",
+    "Rule Description": "Head or limbs resting awkwardly against hard surface",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Restaurant lobby, Metro platform, Convenience store"
+  },
+  {
+    "Rule ID": "LAY-X014",
+    "Event Type": "laying down",
+    "Rule Description": "Lying near hazard like rail edge, curb, or machinery",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Restaurant lobby, Metro platform, Convenience store"
+  },
+  {
+    "Rule ID": "LAY-X015",
+    "Event Type": "laying down",
+    "Rule Description": "Individual with hood or face covered while lying",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Building entrance, Convenience store, Restaurant lobby"
+  },
+  {
+    "Rule ID": "LAY-X016",
+    "Event Type": "laying down",
+    "Rule Description": "Camera shows no movement for extended time",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Restaurant lobby, Metro platform, Building entrance"
+  },
+  {
+    "Rule ID": "LAY-X017",
+    "Event Type": "laying down",
+    "Rule Description": "Person lies down immediately after sudden movement",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Convenience store, Building entrance, Metro platform"
+  },
+  {
+    "Rule ID": "LAY-X018",
+    "Event Type": "laying down",
+    "Rule Description": "Frequent transitions between sitting and lying",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Building entrance, Convenience store, Restaurant lobby"
+  },
+  {
+    "Rule ID": "LAY-X019",
+    "Event Type": "laying down",
+    "Rule Description": "Lying on road divider, parking spot, or vehicle path",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Convenience store, Building entrance, Restaurant lobby"
+  },
+  {
+    "Rule ID": "LAY-X020",
+    "Event Type": "laying down",
+    "Rule Description": "Others react by pointing, calling, or avoiding area",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Convenience store, Metro platform, Building entrance"
+  },
+  {
+    "Rule ID": "SHU-X001",
+    "Event Type": "shuffling",
+    "Rule Description": "Person walks with short, irregular dragging steps",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Hospital corridor, Nursing home, Train station"
+  },
+  {
+    "Rule ID": "SHU-X002",
+    "Event Type": "shuffling",
+    "Rule Description": "Individual appears unstable while moving forward slowly",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Apartment hallway, Train station, Nursing home"
+  },
+  {
+    "Rule ID": "SHU-X003",
+    "Event Type": "shuffling",
+    "Rule Description": "Noticeable asymmetry in foot movement or posture",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Apartment hallway, Hospital corridor, Nursing home"
+  },
+  {
+    "Rule ID": "SHU-X004",
+    "Event Type": "shuffling",
+    "Rule Description": "Person shuffles near platform edge or stairway",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Train station, Hospital corridor, Apartment hallway"
+  },
+  {
+    "Rule ID": "SHU-X005",
+    "Event Type": "shuffling",
+    "Rule Description": "Multiple failed walking attempts captured in short time",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Hospital corridor, Apartment hallway, Train station"
+  },
+  {
+    "Rule ID": "SHU-X006",
+    "Event Type": "shuffling",
+    "Rule Description": "Shuffling behavior repeated around same area",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Train station, Hospital corridor, Nursing home"
+  },
+  {
+    "Rule ID": "SHU-X007",
+    "Event Type": "shuffling",
+    "Rule Description": "Slow movement with forward lean or swaying",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Train station, Hospital corridor, Nursing home"
+  },
+  {
+    "Rule ID": "SHU-X008",
+    "Event Type": "shuffling",
+    "Rule Description": "Drag-trail footprint pattern visible after person passes",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Nursing home, Train station, Hospital corridor"
+  },
+  {
+    "Rule ID": "SHU-X009",
+    "Event Type": "shuffling",
+    "Rule Description": "Individual holding onto wall or furniture while moving",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Nursing home, Train station, Apartment hallway"
+  },
+  {
+    "Rule ID": "SHU-X010",
+    "Event Type": "shuffling",
+    "Rule Description": "Head lowered or tilted while feet drag on surface",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Apartment hallway, Hospital corridor, Train station"
+  },
+  {
+    "Rule ID": "SHU-X011",
+    "Event Type": "shuffling",
+    "Rule Description": "Noticeable delay in movement after visual cues",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Apartment hallway, Nursing home, Hospital corridor"
+  },
+  {
+    "Rule ID": "SHU-X012",
+    "Event Type": "shuffling",
+    "Rule Description": "Obstacle encountered but not navigated during shuffle",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Hospital corridor, Train station, Nursing home"
+  },
+  {
+    "Rule ID": "SHU-X013",
+    "Event Type": "shuffling",
+    "Rule Description": "No attempt to change direction despite obstruction",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Hospital corridor, Apartment hallway, Nursing home"
+  },
+  {
+    "Rule ID": "SHU-X014",
+    "Event Type": "shuffling",
+    "Rule Description": "Frequent pausing and leaning on nearby object",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Train station, Apartment hallway, Nursing home"
+  },
+  {
+    "Rule ID": "SHU-X015",
+    "Event Type": "shuffling",
+    "Rule Description": "Shuffling on wet/slippery floor with imbalance",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Nursing home, Train station, Hospital corridor"
+  },
+  {
+    "Rule ID": "SHU-X016",
+    "Event Type": "shuffling",
+    "Rule Description": "Person appears unaware of surroundings while moving",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Apartment hallway, Hospital corridor, Nursing home"
+  },
+  {
+    "Rule ID": "SHU-X017",
+    "Event Type": "shuffling",
+    "Rule Description": "Shuffling accompanied by repeated gestures (e.g. grasping air)",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Hospital corridor, Apartment hallway, Nursing home"
+  },
+  {
+    "Rule ID": "SHU-X018",
+    "Event Type": "shuffling",
+    "Rule Description": "Others give concerned looks or move aside",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Nursing home, Train station, Hospital corridor"
+  },
+  {
+    "Rule ID": "SHU-X019",
+    "Event Type": "shuffling",
+    "Rule Description": "Clothing loose or disheveled during movement",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Hospital corridor, Train station, Nursing home"
+  },
+  {
+    "Rule ID": "SHU-X020",
+    "Event Type": "shuffling",
+    "Rule Description": "Shuffling continues through crosswalk or driveway",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Train station, Nursing home, Apartment hallway"
+  },
+  {
+    "Rule ID": "WAL-X001",
+    "Event Type": "walking drunk",
+    "Rule Description": "Individual swaying while walking, with staggered steps",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Night street, Bar exit, Subway platform"
+  },
+  {
+    "Rule ID": "WAL-X002",
+    "Event Type": "walking drunk",
+    "Rule Description": "Attempts to walk in straight line repeatedly fail",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Bar exit, Crosswalk, Night street"
+  },
+  {
+    "Rule ID": "WAL-X003",
+    "Event Type": "walking drunk",
+    "Rule Description": "Unsteady movement causes bumping into surroundings",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway platform, Bar exit, Night street"
+  },
+  {
+    "Rule ID": "WAL-X004",
+    "Event Type": "walking drunk",
+    "Rule Description": "Walking into walls, poles, or stationary objects",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Bar exit, Night street, Crosswalk"
+  },
+  {
+    "Rule ID": "WAL-X005",
+    "Event Type": "walking drunk",
+    "Rule Description": "Person drops or fumbles with held items mid-walk",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Night street, Bar exit, Subway platform"
+  },
+  {
+    "Rule ID": "WAL-X006",
+    "Event Type": "walking drunk",
+    "Rule Description": "Arms flail or swing uncontrollably during steps",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Bar exit, Subway platform, Crosswalk"
+  },
+  {
+    "Rule ID": "WAL-X007",
+    "Event Type": "walking drunk",
+    "Rule Description": "Visible balance loss when changing direction",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway platform, Crosswalk, Night street"
+  },
+  {
+    "Rule ID": "WAL-X008",
+    "Event Type": "walking drunk",
+    "Rule Description": "Walking with loud talking or sudden gestures",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Crosswalk, Bar exit, Night street"
+  },
+  {
+    "Rule ID": "WAL-X009",
+    "Event Type": "walking drunk",
+    "Rule Description": "Person falls briefly then resumes walking",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway platform, Bar exit, Crosswalk"
+  },
+  {
+    "Rule ID": "WAL-X010",
+    "Event Type": "walking drunk",
+    "Rule Description": "Individual laughs or shouts without provocation",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Crosswalk, Night street, Bar exit"
+  },
+  {
+    "Rule ID": "WAL-X011",
+    "Event Type": "walking drunk",
+    "Rule Description": "Others react with avoidance or concern",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Crosswalk, Night street, Subway platform"
+  },
+  {
+    "Rule ID": "WAL-X012",
+    "Event Type": "walking drunk",
+    "Rule Description": "One shoe missing or clothing misaligned",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway platform, Crosswalk, Bar exit"
+  },
+  {
+    "Rule ID": "WAL-X013",
+    "Event Type": "walking drunk",
+    "Rule Description": "Face flushed or displaying glassy-eyed stare",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Bar exit, Night street, Subway platform"
+  },
+  {
+    "Rule ID": "WAL-X014",
+    "Event Type": "walking drunk",
+    "Rule Description": "Repeatedly using wall or surface for balance",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Bar exit, Crosswalk, Night street"
+  },
+  {
+    "Rule ID": "WAL-X015",
+    "Event Type": "walking drunk",
+    "Rule Description": "Walking erratically across sidewalk or road",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Night street, Bar exit, Subway platform"
+  },
+  {
+    "Rule ID": "WAL-X016",
+    "Event Type": "walking drunk",
+    "Rule Description": "Near collision with moving vehicle while crossing",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Night street, Crosswalk, Subway platform"
+  },
+  {
+    "Rule ID": "WAL-X017",
+    "Event Type": "walking drunk",
+    "Rule Description": "Hands reach out randomly while navigating space",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Bar exit, Crosswalk, Night street"
+  },
+  {
+    "Rule ID": "WAL-X018",
+    "Event Type": "walking drunk",
+    "Rule Description": "Attempt to sit or lean fails and results in stumble",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway platform, Crosswalk, Bar exit"
+  },
+  {
+    "Rule ID": "WAL-X019",
+    "Event Type": "walking drunk",
+    "Rule Description": "Lying briefly before resuming walking drunk behavior",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway platform, Night street, Bar exit"
+  },
+  {
+    "Rule ID": "WAL-X020",
+    "Event Type": "walking drunk",
+    "Rule Description": "Public space disrupted by individual\u2019s erratic walking",
+    "Applicable Scenes": "Public streets, surveillance areas, indoor or traffic locations",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Bar exit, Crosswalk, Night street"
+  },
+  {
+    "Rule ID": "PEO-X001",
+    "Event Type": "people and car accident",
+    "Rule Description": "Pedestrian struck by turning vehicle at intersection",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Crosswalk, Driveway, Intersection"
+  },
+  {
+    "Rule ID": "PEO-X002",
+    "Event Type": "people and car accident",
+    "Rule Description": "Individual hit while jaywalking across traffic lanes",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Residential street, Driveway, Intersection"
+  },
+  {
+    "Rule ID": "PEO-X003",
+    "Event Type": "people and car accident",
+    "Rule Description": "Child runs into road and collides with slow-moving car",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Driveway, Residential street, Intersection"
+  },
+  {
+    "Rule ID": "PEO-X004",
+    "Event Type": "people and car accident",
+    "Rule Description": "Bystander knocked down while crossing at unmarked zone",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Driveway, Crosswalk, Intersection"
+  },
+  {
+    "Rule ID": "PEO-X005",
+    "Event Type": "people and car accident",
+    "Rule Description": "Collision with pedestrian during vehicle reverse movement",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Intersection, Crosswalk, Driveway"
+  },
+  {
+    "Rule ID": "PEO-X006",
+    "Event Type": "people and car accident",
+    "Rule Description": "Pedestrian hit on driveway or parking lot exit",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Driveway, Residential street, Intersection"
+  },
+  {
+    "Rule ID": "PEO-X007",
+    "Event Type": "people and car accident",
+    "Rule Description": "Vehicle doors open into moving cyclist or walker",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Driveway, Intersection, Crosswalk"
+  },
+  {
+    "Rule ID": "PEO-X008",
+    "Event Type": "people and car accident",
+    "Rule Description": "Accident occurs while person retrieving dropped object",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Crosswalk, Residential street, Driveway"
+  },
+  {
+    "Rule ID": "PEO-X009",
+    "Event Type": "people and car accident",
+    "Rule Description": "Foot caught under slow rolling tire",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Intersection, Residential street, Driveway"
+  },
+  {
+    "Rule ID": "PEO-X010",
+    "Event Type": "people and car accident",
+    "Rule Description": "Car drives into pedestrian gathering or sidewalk",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Driveway, Residential street, Intersection"
+  },
+  {
+    "Rule ID": "PEO-X011",
+    "Event Type": "people and car accident",
+    "Rule Description": "Person falls due to vehicle brushing closely",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Driveway, Crosswalk, Intersection"
+  },
+  {
+    "Rule ID": "PEO-X012",
+    "Event Type": "people and car accident",
+    "Rule Description": "Runner collides with vehicle mid-block crossing",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Driveway, Crosswalk, Intersection"
+  },
+  {
+    "Rule ID": "PEO-X013",
+    "Event Type": "people and car accident",
+    "Rule Description": "Pedestrian on phone hit due to inattentiveness",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Crosswalk, Residential street, Driveway"
+  },
+  {
+    "Rule ID": "PEO-X014",
+    "Event Type": "people and car accident",
+    "Rule Description": "Hit-and-run involving pedestrian fall and driver escape",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Driveway, Intersection, Crosswalk"
+  },
+  {
+    "Rule ID": "PEO-X015",
+    "Event Type": "people and car accident",
+    "Rule Description": "Elderly person hit while walking slowly at crossing",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Residential street, Crosswalk, Driveway"
+  },
+  {
+    "Rule ID": "PEO-X016",
+    "Event Type": "people and car accident",
+    "Rule Description": "Group of pedestrians impacted while crowding street",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Intersection, Crosswalk, Residential street"
+  },
+  {
+    "Rule ID": "PEO-X017",
+    "Event Type": "people and car accident",
+    "Rule Description": "Pedestrian impact captured from multiple angles",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Residential street, Driveway, Crosswalk"
+  },
+  {
+    "Rule ID": "PEO-X018",
+    "Event Type": "people and car accident",
+    "Rule Description": "Collision near school zone or hospital entrance",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Driveway, Residential street, Intersection"
+  },
+  {
+    "Rule ID": "PEO-X019",
+    "Event Type": "people and car accident",
+    "Rule Description": "Person tries to stop vehicle just before contact",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Intersection, Driveway, Crosswalk"
+  },
+  {
+    "Rule ID": "PEO-X020",
+    "Event Type": "people and car accident",
+    "Rule Description": "Bystanders rush to help fallen pedestrian post-impact",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Crosswalk, Intersection, Residential street"
+  },
+  {
+    "Rule ID": "CAR-X001",
+    "Event Type": "car crash",
+    "Rule Description": "Two vehicles collide at intersection due to red light violation",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Traffic junction, Highway, Tunnel"
+  },
+  {
+    "Rule ID": "CAR-X002",
+    "Event Type": "car crash",
+    "Rule Description": "Rear-end collision during heavy traffic",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Traffic junction, City street, Highway"
+  },
+  {
+    "Rule ID": "CAR-X003",
+    "Event Type": "car crash",
+    "Rule Description": "Car swerves and hits road divider or pole",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Traffic junction, Tunnel, Highway"
+  },
+  {
+    "Rule ID": "CAR-X004",
+    "Event Type": "car crash",
+    "Rule Description": "Head-on collision in narrow or curved road",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "City street, Highway, Traffic junction"
+  },
+  {
+    "Rule ID": "CAR-X005",
+    "Event Type": "car crash",
+    "Rule Description": "Parked car hit by reversing or turning vehicle",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Tunnel, Highway, City street"
+  },
+  {
+    "Rule ID": "CAR-X006",
+    "Event Type": "car crash",
+    "Rule Description": "Multiple car pileup during poor visibility",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Highway, City street, Tunnel"
+  },
+  {
+    "Rule ID": "CAR-X007",
+    "Event Type": "car crash",
+    "Rule Description": "Car rolls over after loss of control",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Tunnel, Traffic junction, City street"
+  },
+  {
+    "Rule ID": "CAR-X008",
+    "Event Type": "car crash",
+    "Rule Description": "Crash triggered by tire burst or brake failure",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Tunnel, Traffic junction, City street"
+  },
+  {
+    "Rule ID": "CAR-X009",
+    "Event Type": "car crash",
+    "Rule Description": "Motorcycle hits side of moving car",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Highway, City street, Traffic junction"
+  },
+  {
+    "Rule ID": "CAR-X010",
+    "Event Type": "car crash",
+    "Rule Description": "SUV crashes into roadside shop or pole",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Traffic junction, City street, Tunnel"
+  },
+  {
+    "Rule ID": "CAR-X011",
+    "Event Type": "car crash",
+    "Rule Description": "Car crash followed by airbag deployment",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Highway, Tunnel, Traffic junction"
+  },
+  {
+    "Rule ID": "CAR-X012",
+    "Event Type": "car crash",
+    "Rule Description": "Vehicle flips or spins upon impact",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "City street, Traffic junction, Tunnel"
+  },
+  {
+    "Rule ID": "CAR-X013",
+    "Event Type": "car crash",
+    "Rule Description": "Dashcam shows sudden stop and rear hit",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "City street, Traffic junction, Tunnel"
+  },
+  {
+    "Rule ID": "CAR-X014",
+    "Event Type": "car crash",
+    "Rule Description": "Front of vehicle crumpled after high-speed crash",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "City street, Tunnel, Traffic junction"
+  },
+  {
+    "Rule ID": "CAR-X015",
+    "Event Type": "car crash",
+    "Rule Description": "Single car crash while changing lanes abruptly",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Highway, City street, Traffic junction"
+  },
+  {
+    "Rule ID": "CAR-X016",
+    "Event Type": "car crash",
+    "Rule Description": "Debris scattered across road after collision",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Highway, Tunnel, City street"
+  },
+  {
+    "Rule ID": "CAR-X017",
+    "Event Type": "car crash",
+    "Rule Description": "Pedestrians flee after crash sound and movement",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Tunnel, Highway, City street"
+  },
+  {
+    "Rule ID": "CAR-X018",
+    "Event Type": "car crash",
+    "Rule Description": "Vehicles block junction after crash event",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Tunnel, City street, Highway"
+  },
+  {
+    "Rule ID": "CAR-X019",
+    "Event Type": "car crash",
+    "Rule Description": "Crash at toll gate or narrow entry ramp",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Tunnel, City street, Highway"
+  },
+  {
+    "Rule ID": "CAR-X020",
+    "Event Type": "car crash",
+    "Rule Description": "Post-crash smoke or fluid leakage observed",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Traffic junction, City street, Tunnel"
+  },
+  {
+    "Rule ID": "JUM-X001",
+    "Event Type": "jumping",
+    "Rule Description": "Individual jumps over subway turnstile without ticket",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Stairway, Subway gate, Building ledge"
+  },
+  {
+    "Rule ID": "JUM-X002",
+    "Event Type": "jumping",
+    "Rule Description": "Jumping down from elevated platform or wall",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway gate, Stairway, Building ledge"
+  },
+  {
+    "Rule ID": "JUM-X003",
+    "Event Type": "jumping",
+    "Rule Description": "Repeated hopping behavior without clear reason",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway gate, Fenced zone, Stairway"
+  },
+  {
+    "Rule ID": "JUM-X004",
+    "Event Type": "jumping",
+    "Rule Description": "Person jumps into road from sidewalk suddenly",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Fenced zone, Stairway, Building ledge"
+  },
+  {
+    "Rule ID": "JUM-X005",
+    "Event Type": "jumping",
+    "Rule Description": "Jumping between moving vehicles or platforms",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Building ledge, Subway gate, Fenced zone"
+  },
+  {
+    "Rule ID": "JUM-X006",
+    "Event Type": "jumping",
+    "Rule Description": "Escape attempt via jumping over locked gate",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Stairway, Fenced zone, Subway gate"
+  },
+  {
+    "Rule ID": "JUM-X007",
+    "Event Type": "jumping",
+    "Rule Description": "Bystander jumps to avoid falling object or hazard",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Fenced zone, Subway gate, Stairway"
+  },
+  {
+    "Rule ID": "JUM-X008",
+    "Event Type": "jumping",
+    "Rule Description": "Child jumps uncontrollably near street curb",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Building ledge, Subway gate, Stairway"
+  },
+  {
+    "Rule ID": "JUM-X009",
+    "Event Type": "jumping",
+    "Rule Description": "Person jumps across security barrier or cordon",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Stairway, Building ledge, Fenced zone"
+  },
+  {
+    "Rule ID": "JUM-X010",
+    "Event Type": "jumping",
+    "Rule Description": "Jump from stair mid-landing to skip steps",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Building ledge, Subway gate, Stairway"
+  },
+  {
+    "Rule ID": "JUM-X011",
+    "Event Type": "jumping",
+    "Rule Description": "Jumping inside supermarket or closed area",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway gate, Building ledge, Stairway"
+  },
+  {
+    "Rule ID": "JUM-X012",
+    "Event Type": "jumping",
+    "Rule Description": "Athletic jumping in non-sport environment",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway gate, Stairway, Building ledge"
+  },
+  {
+    "Rule ID": "JUM-X013",
+    "Event Type": "jumping",
+    "Rule Description": "Visible intentional leap across gap or trench",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Building ledge, Stairway, Subway gate"
+  },
+  {
+    "Rule ID": "JUM-X014",
+    "Event Type": "jumping",
+    "Rule Description": "Person jumps then immediately flees scene",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Subway gate, Building ledge, Stairway"
+  },
+  {
+    "Rule ID": "JUM-X015",
+    "Event Type": "jumping",
+    "Rule Description": "Jumping onto public furniture or installation",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Fenced zone, Stairway, Building ledge"
+  },
+  {
+    "Rule ID": "JUM-X016",
+    "Event Type": "jumping",
+    "Rule Description": "Jumping over railing into restricted zone",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Stairway, Subway gate, Fenced zone"
+  },
+  {
+    "Rule ID": "JUM-X017",
+    "Event Type": "jumping",
+    "Rule Description": "Individual jumps as prank with camera filming",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Stairway, Building ledge, Subway gate"
+  },
+  {
+    "Rule ID": "JUM-X018",
+    "Event Type": "jumping",
+    "Rule Description": "Jump into water body in restricted park area",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Fenced zone, Building ledge, Subway gate"
+  },
+  {
+    "Rule ID": "JUM-X019",
+    "Event Type": "jumping",
+    "Rule Description": "Multiple jumps in succession near escalator",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Stairway, Fenced zone, Building ledge"
+  },
+  {
+    "Rule ID": "JUM-X020",
+    "Event Type": "jumping",
+    "Rule Description": "Security guards react to unexpected jump behavior",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Stairway, Subway gate, Building ledge"
+  },
+  {
+    "Rule ID": "FIR-X001",
+    "Event Type": "fire",
+    "Rule Description": "Open flame visible inside building or enclosed space",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Public restroom, Kitchen, Warehouse"
+  },
+  {
+    "Rule ID": "FIR-X002",
+    "Event Type": "fire",
+    "Rule Description": "Fire starts from pile of trash or fabric",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Public restroom, Fuel station, Kitchen"
+  },
+  {
+    "Rule ID": "FIR-X003",
+    "Event Type": "fire",
+    "Rule Description": "Car engine area catches fire in traffic",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Fuel station, Public restroom, Warehouse"
+  },
+  {
+    "Rule ID": "FIR-X004",
+    "Event Type": "fire",
+    "Rule Description": "Object thrown into store then fire starts",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Public restroom, Warehouse, Kitchen"
+  },
+  {
+    "Rule ID": "FIR-X005",
+    "Event Type": "fire",
+    "Rule Description": "Flames visible on wall, curtain, or roof",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Warehouse, Fuel station, Public restroom"
+  },
+  {
+    "Rule ID": "FIR-X006",
+    "Event Type": "fire",
+    "Rule Description": "Fire ignites and spreads from cooking area",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Fuel station, Public restroom, Warehouse"
+  },
+  {
+    "Rule ID": "FIR-X007",
+    "Event Type": "fire",
+    "Rule Description": "Unauthorized fireworks causes flame in public square",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Fuel station, Public restroom, Kitchen"
+  },
+  {
+    "Rule ID": "FIR-X008",
+    "Event Type": "fire",
+    "Rule Description": "Flame appears under seat or storage area",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Warehouse, Fuel station, Kitchen"
+  },
+  {
+    "Rule ID": "FIR-X009",
+    "Event Type": "fire",
+    "Rule Description": "Security camera records person lighting object",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Kitchen, Fuel station, Public restroom"
+  },
+  {
+    "Rule ID": "FIR-X010",
+    "Event Type": "fire",
+    "Rule Description": "Multiple fire spots ignite in same location",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Public restroom, Fuel station, Warehouse"
+  },
+  {
+    "Rule ID": "FIR-X011",
+    "Event Type": "fire",
+    "Rule Description": "Smoke followed by visible red-orange flames",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Kitchen, Warehouse, Public restroom"
+  },
+  {
+    "Rule ID": "FIR-X012",
+    "Event Type": "fire",
+    "Rule Description": "Fire set on vending machine or trash bin",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Kitchen, Warehouse, Fuel station"
+  },
+  {
+    "Rule ID": "FIR-X013",
+    "Event Type": "fire",
+    "Rule Description": "Burning debris thrown from upper floor",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Public restroom, Fuel station, Kitchen"
+  },
+  {
+    "Rule ID": "FIR-X014",
+    "Event Type": "fire",
+    "Rule Description": "Gasoline poured before ignition captured",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Public restroom, Fuel station, Kitchen"
+  },
+  {
+    "Rule ID": "FIR-X015",
+    "Event Type": "fire",
+    "Rule Description": "People flee after sudden burst of flame",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Public restroom, Kitchen, Fuel station"
+  },
+  {
+    "Rule ID": "FIR-X016",
+    "Event Type": "fire",
+    "Rule Description": "Fire alarm triggers and crowd disperses",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Fuel station, Public restroom, Kitchen"
+  },
+  {
+    "Rule ID": "FIR-X017",
+    "Event Type": "fire",
+    "Rule Description": "Flames visible in elevator shaft or corridor",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Fuel station, Public restroom, Warehouse"
+  },
+  {
+    "Rule ID": "FIR-X018",
+    "Event Type": "fire",
+    "Rule Description": "Flame rises from bag left unattended",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Public restroom, Fuel station, Kitchen"
+  },
+  {
+    "Rule ID": "FIR-X019",
+    "Event Type": "fire",
+    "Rule Description": "Fire surrounds vehicle or bike frame",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Fuel station, Public restroom, Kitchen"
+  },
+  {
+    "Rule ID": "FIR-X020",
+    "Event Type": "fire",
+    "Rule Description": "Crowd attempts to extinguish flame with bottle or jacket",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Fuel station, Public restroom, Warehouse"
+  },
+  {
+    "Rule ID": "SMO-X001",
+    "Event Type": "smoke",
+    "Rule Description": "Thick smoke emerges from closed shop or office",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Office room, Underground garage, Transit corridor"
+  },
+  {
+    "Rule ID": "SMO-X002",
+    "Event Type": "smoke",
+    "Rule Description": "Smoke obscures camera view over time",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Underground garage, Transit corridor, Elevator area"
+  },
+  {
+    "Rule ID": "SMO-X003",
+    "Event Type": "smoke",
+    "Rule Description": "Gray cloud leaks from underground grate",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Elevator area, Underground garage, Transit corridor"
+  },
+  {
+    "Rule ID": "SMO-X004",
+    "Event Type": "smoke",
+    "Rule Description": "Smoke rises from parked car hood",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Transit corridor, Office room, Elevator area"
+  },
+  {
+    "Rule ID": "SMO-X005",
+    "Event Type": "smoke",
+    "Rule Description": "White smoke fills hallway before evacuation",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Transit corridor, Underground garage, Elevator area"
+  },
+  {
+    "Rule ID": "SMO-X006",
+    "Event Type": "smoke",
+    "Rule Description": "Smoke spreads near food court or cafe",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Underground garage, Office room, Elevator area"
+  },
+  {
+    "Rule ID": "SMO-X007",
+    "Event Type": "smoke",
+    "Rule Description": "Fire not visible but dark smoke surrounds exit",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Transit corridor, Underground garage, Office room"
+  },
+  {
+    "Rule ID": "SMO-X008",
+    "Event Type": "smoke",
+    "Rule Description": "People coughing or covering mouth near smoke source",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Office room, Transit corridor, Elevator area"
+  },
+  {
+    "Rule ID": "SMO-X009",
+    "Event Type": "smoke",
+    "Rule Description": "Alarm flashing as smoke exits elevator gap",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Underground garage, Office room, Transit corridor"
+  },
+  {
+    "Rule ID": "SMO-X010",
+    "Event Type": "smoke",
+    "Rule Description": "Bystanders retreat from smoke-filled stairwell",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Underground garage, Transit corridor, Office room"
+  },
+  {
+    "Rule ID": "SMO-X011",
+    "Event Type": "smoke",
+    "Rule Description": "Light flickering inside room filled with smoke",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Transit corridor, Underground garage, Office room"
+  },
+  {
+    "Rule ID": "SMO-X012",
+    "Event Type": "smoke",
+    "Rule Description": "Smoke follows electric spark from device",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Office room, Elevator area, Transit corridor"
+  },
+  {
+    "Rule ID": "SMO-X013",
+    "Event Type": "smoke",
+    "Rule Description": "Ceiling smoke swirls detected by detector",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Transit corridor, Office room, Underground garage"
+  },
+  {
+    "Rule ID": "SMO-X014",
+    "Event Type": "smoke",
+    "Rule Description": "Smoke escapes from briefcase or luggage",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Transit corridor, Underground garage, Elevator area"
+  },
+  {
+    "Rule ID": "SMO-X015",
+    "Event Type": "smoke",
+    "Rule Description": "Smoke marks vandalism of vending/kiosk",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Transit corridor, Office room, Elevator area"
+  },
+  {
+    "Rule ID": "SMO-X016",
+    "Event Type": "smoke",
+    "Rule Description": "Security waves for evacuation amid smoke",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Transit corridor, Elevator area, Underground garage"
+  },
+  {
+    "Rule ID": "SMO-X017",
+    "Event Type": "smoke",
+    "Rule Description": "Smoke continues rising despite no flame seen",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Transit corridor, Office room, Underground garage"
+  },
+  {
+    "Rule ID": "SMO-X018",
+    "Event Type": "smoke",
+    "Rule Description": "Floor becomes hazy from low-lying smoke",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Elevator area, Office room, Transit corridor"
+  },
+  {
+    "Rule ID": "SMO-X019",
+    "Event Type": "smoke",
+    "Rule Description": "Camera vision blurs then clears after smoke passes",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Underground garage, Office room, Transit corridor"
+  },
+  {
+    "Rule ID": "SMO-X020",
+    "Event Type": "smoke",
+    "Rule Description": "Object removed emits visible vapor trail",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Office room, Elevator area, Underground garage"
+  },
+  {
+    "Rule ID": "JAY-X001",
+    "Event Type": "jaywalking",
+    "Rule Description": "Pedestrian crosses street outside marked crosswalk",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Bus lane, Market street, Intersection"
+  },
+  {
+    "Rule ID": "JAY-X002",
+    "Event Type": "jaywalking",
+    "Rule Description": "Jaywalker runs across multi-lane traffic",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Market street, Main road, Intersection"
+  },
+  {
+    "Rule ID": "JAY-X003",
+    "Event Type": "jaywalking",
+    "Rule Description": "Person steps into road despite red signal",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Intersection, Main road, Bus lane"
+  },
+  {
+    "Rule ID": "JAY-X004",
+    "Event Type": "jaywalking",
+    "Rule Description": "Group crosses road diagonally ignoring signals",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Bus lane, Main road, Intersection"
+  },
+  {
+    "Rule ID": "JAY-X005",
+    "Event Type": "jaywalking",
+    "Rule Description": "Individual pushes past traffic island to cross",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Market street, Bus lane, Intersection"
+  },
+  {
+    "Rule ID": "JAY-X006",
+    "Event Type": "jaywalking",
+    "Rule Description": "Pedestrian walks across fast vehicle stream",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Market street, Intersection, Main road"
+  },
+  {
+    "Rule ID": "JAY-X007",
+    "Event Type": "jaywalking",
+    "Rule Description": "Elderly person jaywalks with cane between cars",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Bus lane, Main road, Intersection"
+  },
+  {
+    "Rule ID": "JAY-X008",
+    "Event Type": "jaywalking",
+    "Rule Description": "Family crosses with child outside designated zone",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Main road, Bus lane, Intersection"
+  },
+  {
+    "Rule ID": "JAY-X009",
+    "Event Type": "jaywalking",
+    "Rule Description": "Jaywalker stops mid-road as car approaches",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Market street, Intersection, Main road"
+  },
+  {
+    "Rule ID": "JAY-X010",
+    "Event Type": "jaywalking",
+    "Rule Description": "Camera captures crossing from both sidewalk angles",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Intersection, Market street, Main road"
+  },
+  {
+    "Rule ID": "JAY-X011",
+    "Event Type": "jaywalking",
+    "Rule Description": "Jaywalking from behind parked vehicle or bus",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Intersection, Bus lane, Main road"
+  },
+  {
+    "Rule ID": "JAY-X012",
+    "Event Type": "jaywalking",
+    "Rule Description": "Headphones on while jaywalking without awareness",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Intersection, Market street, Main road"
+  },
+  {
+    "Rule ID": "JAY-X013",
+    "Event Type": "jaywalking",
+    "Rule Description": "Jaywalker scolded or warned by driver",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Main road, Market street, Intersection"
+  },
+  {
+    "Rule ID": "JAY-X014",
+    "Event Type": "jaywalking",
+    "Rule Description": "Close vehicle miss forces jaywalker to leap",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Market street, Main road, Intersection"
+  },
+  {
+    "Rule ID": "JAY-X015",
+    "Event Type": "jaywalking",
+    "Rule Description": "Jaywalking repeated multiple times in short span",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Main road, Bus lane, Market street"
+  },
+  {
+    "Rule ID": "JAY-X016",
+    "Event Type": "jaywalking",
+    "Rule Description": "Others follow lead of first jaywalker",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Main road, Bus lane, Market street"
+  },
+  {
+    "Rule ID": "JAY-X017",
+    "Event Type": "jaywalking",
+    "Rule Description": "Jaywalking in low-light without reflectors",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Intersection, Market street, Bus lane"
+  },
+  {
+    "Rule ID": "JAY-X018",
+    "Event Type": "jaywalking",
+    "Rule Description": "Fast bicycle avoids jaywalker abruptly",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Main road, Bus lane, Intersection"
+  },
+  {
+    "Rule ID": "JAY-X019",
+    "Event Type": "jaywalking",
+    "Rule Description": "Jaywalker walks slowly mid-lane during rush hour",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Bus lane, Market street, Intersection"
+  },
+  {
+    "Rule ID": "JAY-X020",
+    "Event Type": "jaywalking",
+    "Rule Description": "Security or traffic officer gestures to prevent crossing",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Market street, Main road, Intersection"
+  },
+  {
+    "Rule ID": "DRI-X001",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Car continuously drifts across multiple lanes",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Bike lane, One-way street, Multi-lane road"
+  },
+  {
+    "Rule ID": "DRI-X002",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Vehicle crosses solid lane divider line",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Parking garage, One-way street, Bike lane"
+  },
+  {
+    "Rule ID": "DRI-X003",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Driving in opposite lane with oncoming traffic",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Bike lane, One-way street, Parking garage"
+  },
+  {
+    "Rule ID": "DRI-X004",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Motorcycle rides between cars outside lanes",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Parking garage, Multi-lane road, One-way street"
+  },
+  {
+    "Rule ID": "DRI-X005",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Lane markings ignored during turns or curves",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Parking garage, One-way street, Multi-lane road"
+  },
+  {
+    "Rule ID": "DRI-X006",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Driver overtakes via shoulder or emergency lane",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Parking garage, Multi-lane road, One-way street"
+  },
+  {
+    "Rule ID": "DRI-X007",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Repeated weaving in and out of lanes",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "One-way street, Parking garage, Multi-lane road"
+  },
+  {
+    "Rule ID": "DRI-X008",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Driving through parking rows instead of lanes",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Multi-lane road, Parking garage, Bike lane"
+  },
+  {
+    "Rule ID": "DRI-X009",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Vehicle cuts corner ignoring painted arrows",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "One-way street, Parking garage, Bike lane"
+  },
+  {
+    "Rule ID": "DRI-X010",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Heavy vehicle enters restricted lane area",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Bike lane, Parking garage, Multi-lane road"
+  },
+  {
+    "Rule ID": "DRI-X011",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Bus enters bike lane or sidewalk area",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Parking garage, Bike lane, Multi-lane road"
+  },
+  {
+    "Rule ID": "DRI-X012",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Driving partially on curb or pedestrian path",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Bike lane, Multi-lane road, One-way street"
+  },
+  {
+    "Rule ID": "DRI-X013",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Swerving between traffic cones in no-lane zone",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Multi-lane road, Bike lane, Parking garage"
+  },
+  {
+    "Rule ID": "DRI-X014",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Driving in zigzag pattern at low speed",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "One-way street, Parking garage, Bike lane"
+  },
+  {
+    "Rule ID": "DRI-X015",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Unauthorized lane changes near intersection",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Parking garage, One-way street, Bike lane"
+  },
+  {
+    "Rule ID": "DRI-X016",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Truck takes full two lanes while turning",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Multi-lane road, Parking garage, One-way street"
+  },
+  {
+    "Rule ID": "DRI-X017",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Driving outside marked path in parking garage",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "One-way street, Multi-lane road, Bike lane"
+  },
+  {
+    "Rule ID": "DRI-X018",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Car enters construction lane with barriers",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Multi-lane road, Bike lane, One-way street"
+  },
+  {
+    "Rule ID": "DRI-X019",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Overtake completed across double yellow lines",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Bike lane, Parking garage, One-way street"
+  },
+  {
+    "Rule ID": "DRI-X020",
+    "Event Type": "driving outside lane",
+    "Rule Description": "Other drivers honk or brake due to out-of-lane behavior",
+    "Applicable Scenes": "Public roadways, pedestrian zones, intersections, or surveillance areas",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Bike lane, Parking garage, Multi-lane road"
+  }
+]

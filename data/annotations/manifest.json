@@ -1,0 +1,66 @@
+{
+  "datasets": [
+    {
+      "dataset": "ucf",
+      "file": "ucf.txt",
+      "video_count": 290,
+      "normal_videos": 150,
+      "abnormal_videos": 140,
+      "sha256": "d7dad42e24fd14af668b00f5a00d66957036148dcd01eca41d605eca496d0875",
+      "dataset_url": "https://www.crcv.ucf.edu/projects/real-world/",
+      "format": "filename class start end ...",
+      "segment_units": "inclusive original-frame indices",
+      "normal_sentinel": [
+        -1,
+        -1
+      ]
+    },
+    {
+      "dataset": "xd",
+      "file": "xd.txt",
+      "video_count": 800,
+      "normal_videos": 300,
+      "abnormal_videos": 500,
+      "sha256": "0c06fdc3b80dde76698f3460cf51b4b5b86decdb8ac83174ebf5e9d9b92a57e8",
+      "dataset_url": "https://roc-ng.github.io/XD-Violence/",
+      "format": "filename start end ...",
+      "segment_units": "inclusive original-frame indices",
+      "normal_sentinel": [
+        -1,
+        -1
+      ]
+    },
+    {
+      "dataset": "ub",
+      "file": "ub.txt",
+      "video_count": 211,
+      "normal_videos": 53,
+      "abnormal_videos": 158,
+      "sha256": "8b344bcb53aa4016354f67673d37cee7aeb9a02bae6d7a2aa5b09ea07e77b237",
+      "dataset_url": "https://github.com/lilygeorgescu/UBnormal",
+      "format": "filename start end ...",
+      "segment_units": "inclusive original-frame indices",
+      "normal_sentinel": [
+        -1,
+        -1
+      ]
+    },
+    {
+      "dataset": "csad",
+      "file": "csad.txt",
+      "video_count": 100,
+      "normal_videos": 50,
+      "abnormal_videos": 50,
+      "sha256": "b56de420350ef903d601beb9d1272e9a36f5c47b247414c421a8b65b3d8e8f56",
+      "dataset_url": "https://github.com/showlab/PANDA",
+      "format": "filename start end ...",
+      "segment_units": "inclusive original-frame indices",
+      "normal_sentinel": [
+        -1,
+        -1
+      ]
+    }
+  ],
+  "video_distribution": "Download videos from the respective dataset providers.",
+  "terms": "Dataset-specific terms apply to videos and annotations."
+}

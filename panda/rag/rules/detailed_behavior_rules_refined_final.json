@@ -1,0 +1,1172 @@
+[
+  {
+    "Rule ID":"ABU-X001",
+    "Event Type":"Abuse",
+    "Rule Description":"Individual repeatedly slapping or hitting a vulnerable person (child\/elder)",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Residential home, Private bedroom, Daycare center"
+  },
+  {
+    "Rule ID":"ABU-X002",
+    "Event Type":"Abuse",
+    "Rule Description":"Victim shows visible bruises or swelling across multiple days or scenes",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Nursing home, Hospital room, Private bedroom"
+  },
+  {
+    "Rule ID":"ABU-X003",
+    "Event Type":"Abuse",
+    "Rule Description":"Aggressor displaying hostile facial expressions and cornering the victim",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Hospital room, Daycare center, Residential home"
+  },
+  {
+    "Rule ID":"ABU-X004",
+    "Event Type":"Abuse",
+    "Rule Description":"Screaming, crying, or pleading sounds in confined space with forceful gestures",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Hospital room, Nursing home, Residential home"
+  },
+  {
+    "Rule ID":"ABU-X005",
+    "Event Type":"Abuse",
+    "Rule Description":"Victim flinching or shielding themselves without provocation",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Residential home, Daycare center, Private bedroom"
+  },
+  {
+    "Rule ID":"ABU-X006",
+    "Event Type":"Abuse",
+    "Rule Description":"Aggressor using nearby objects (stick, slipper, remote) to strike victim",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Residential home, Hospital room, Daycare center"
+  },
+  {
+    "Rule ID":"ABU-X007",
+    "Event Type":"Abuse",
+    "Rule Description":"Individual dragging or pulling victim against their will",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Residential home, Hospital room, Private bedroom"
+  },
+  {
+    "Rule ID":"ABU-X008",
+    "Event Type":"Abuse",
+    "Rule Description":"Aggressor forcing victim into a confined space or room",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Private bedroom, Residential home, Daycare center"
+  },
+  {
+    "Rule ID":"ABU-X009",
+    "Event Type":"Abuse",
+    "Rule Description":"Victim seen isolated, crying, or frozen while aggressor watches closely",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Nursing home, Daycare center, Hospital room"
+  },
+  {
+    "Rule ID":"ABU-X010",
+    "Event Type":"Abuse",
+    "Rule Description":"Aggressor appears calm post-incident, while victim remains visibly distressed",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Private bedroom, Residential home, Daycare center"
+  },
+  {
+    "Rule ID":"ARR-X001",
+    "Event Type":"Arrest",
+    "Rule Description":"Uniformed police applying handcuffs on suspect with resistance",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Public square, Street intersection, Shopping mall"
+  },
+  {
+    "Rule ID":"ARR-X002",
+    "Event Type":"Arrest",
+    "Rule Description":"Officers pinning suspect to the ground with arms restrained",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Subway station, Shopping mall, Street intersection"
+  },
+  {
+    "Rule ID":"ARR-X003",
+    "Event Type":"Arrest",
+    "Rule Description":"Flashing lights of patrol vehicle active during detention",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Shopping mall, Gas station, Street intersection"
+  },
+  {
+    "Rule ID":"ARR-X004",
+    "Event Type":"Arrest",
+    "Rule Description":"Suspect raising hands while being surrounded by police",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Public square, Subway station, Gas station"
+  },
+  {
+    "Rule ID":"ARR-X005",
+    "Event Type":"Arrest",
+    "Rule Description":"Officer holding weapon pointed down during apprehension",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Gas station, Public square, Subway station"
+  },
+  {
+    "Rule ID":"ARR-X006",
+    "Event Type":"Arrest",
+    "Rule Description":"Multiple officers escorting a suspect toward vehicle",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Street intersection, Gas station, Subway station"
+  },
+  {
+    "Rule ID":"ARR-X007",
+    "Event Type":"Arrest",
+    "Rule Description":"Crowd forming around as police detain individual",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Subway station, Shopping mall, Gas station"
+  },
+  {
+    "Rule ID":"ARR-X008",
+    "Event Type":"Arrest",
+    "Rule Description":"Suspect attempts to run, then subdued by officers",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Gas station, Subway station, Public square"
+  },
+  {
+    "Rule ID":"ARR-X009",
+    "Event Type":"Arrest",
+    "Rule Description":"Police verbally announcing charges during detainment",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Subway station, Gas station, Street intersection"
+  },
+  {
+    "Rule ID":"ARR-X010",
+    "Event Type":"Arrest",
+    "Rule Description":"Officer checking or removing items from suspect's pockets",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Gas station, Shopping mall, Street intersection"
+  },
+  {
+    "Rule ID":"ARS-X001",
+    "Event Type":"Arson",
+    "Rule Description":"Individual pouring liquid from bottle onto building or vehicle before fire",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Abandoned building, Warehouse, Vehicle interior"
+  },
+  {
+    "Rule ID":"ARS-X002",
+    "Event Type":"Arson",
+    "Rule Description":"Object ignited and thrown into enclosed space (e.g., Molotov cocktail)",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Abandoned building, Alleyway, Vehicle interior"
+  },
+  {
+    "Rule ID":"ARS-X003",
+    "Event Type":"Arson",
+    "Rule Description":"Fire igniting rapidly with a visible accelerant trail",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Parking lot, Alleyway, Vehicle interior"
+  },
+  {
+    "Rule ID":"ARS-X004",
+    "Event Type":"Arson",
+    "Rule Description":"Camera captures flame eruption following suspect presence",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Vehicle interior, Alleyway, Abandoned building"
+  },
+  {
+    "Rule ID":"ARS-X005",
+    "Event Type":"Arson",
+    "Rule Description":"Individual seen carrying lighter and fuel container in off-hours",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Parking lot, Warehouse, Abandoned building"
+  },
+  {
+    "Rule ID":"ARS-X006",
+    "Event Type":"Arson",
+    "Rule Description":"Fleeing immediately before sudden fire outbreak",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Alleyway, Abandoned building, Parking lot"
+  },
+  {
+    "Rule ID":"ARS-X007",
+    "Event Type":"Arson",
+    "Rule Description":"Building shows localized flame origin in area recently accessed",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Parking lot, Alleyway, Warehouse"
+  },
+  {
+    "Rule ID":"ARS-X008",
+    "Event Type":"Arson",
+    "Rule Description":"No accidental cause (e.g., stove, wires) visible at ignition site",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Abandoned building, Alleyway, Vehicle interior"
+  },
+  {
+    "Rule ID":"ARS-X009",
+    "Event Type":"Arson",
+    "Rule Description":"Presence of multiple ignition points in a small area",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Abandoned building, Vehicle interior, Parking lot"
+  },
+  {
+    "Rule ID":"ARS-X010",
+    "Event Type":"Arson",
+    "Rule Description":"Suspect observed filming the fire from a safe distance",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Alleyway, Warehouse, Parking lot"
+  },
+  {
+    "Rule ID":"ASS-X001",
+    "Event Type":"Assault",
+    "Rule Description":"Aggressor punching, kicking, or elbowing victim multiple times",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"School hallway, Nightclub, Stadium"
+  },
+  {
+    "Rule ID":"ASS-X002",
+    "Event Type":"Assault",
+    "Rule Description":"Victim knocked to the ground or backing away in fear",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Stadium, School hallway, Street sidewalk"
+  },
+  {
+    "Rule ID":"ASS-X003",
+    "Event Type":"Assault",
+    "Rule Description":"Use of handheld object (bottle, stick) in attack",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Nightclub, School hallway, Street sidewalk"
+  },
+  {
+    "Rule ID":"ASS-X004",
+    "Event Type":"Assault",
+    "Rule Description":"Rapid forward motion of aggressor followed by strike",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Office corridor, Street sidewalk, School hallway"
+  },
+  {
+    "Rule ID":"ASS-X005",
+    "Event Type":"Assault",
+    "Rule Description":"Victim shielding head or retreating while being followed",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Office corridor, Stadium, Street sidewalk"
+  },
+  {
+    "Rule ID":"ASS-X006",
+    "Event Type":"Assault",
+    "Rule Description":"Multiple aggressors targeting a single individual",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Stadium, Office corridor, School hallway"
+  },
+  {
+    "Rule ID":"ASS-X007",
+    "Event Type":"Assault",
+    "Rule Description":"Verbal shouting escalating into physical contact",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Stadium, School hallway, Street sidewalk"
+  },
+  {
+    "Rule ID":"ASS-X008",
+    "Event Type":"Assault",
+    "Rule Description":"Victim visibly injured or bleeding post-contact",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Street sidewalk, School hallway, Office corridor"
+  },
+  {
+    "Rule ID":"ASS-X009",
+    "Event Type":"Assault",
+    "Rule Description":"Aggressor blocks escape path and lunges aggressively",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Nightclub, School hallway, Office corridor"
+  },
+  {
+    "Rule ID":"ASS-X010",
+    "Event Type":"Assault",
+    "Rule Description":"Attack happens suddenly in public or indoor setting",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Street sidewalk, Nightclub, Stadium"
+  },
+  {
+    "Rule ID":"BUR-X001",
+    "Event Type":"Burglary",
+    "Rule Description":"Intruder tampering with lock or window late at night",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Jewelry store, Warehouse, Private house"
+  },
+  {
+    "Rule ID":"BUR-X002",
+    "Event Type":"Burglary",
+    "Rule Description":"Suspect entering restricted\/private area without key or permission",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Private house, Jewelry store, Warehouse"
+  },
+  {
+    "Rule ID":"BUR-X003",
+    "Event Type":"Burglary",
+    "Rule Description":"Security camera sees person scanning surroundings before entry",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Jewelry store, Electronics store, Warehouse"
+  },
+  {
+    "Rule ID":"BUR-X004",
+    "Event Type":"Burglary",
+    "Rule Description":"Exit involves carrying valuables or electronics in hidden bags",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Jewelry store, Apartment building, Electronics store"
+  },
+  {
+    "Rule ID":"BUR-X005",
+    "Event Type":"Burglary",
+    "Rule Description":"Attempt to disable or spray over security camera",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Private house, Apartment building, Electronics store"
+  },
+  {
+    "Rule ID":"BUR-X006",
+    "Event Type":"Burglary",
+    "Rule Description":"Forced entry marks visible (broken lock, window)",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Jewelry store, Private house, Warehouse"
+  },
+  {
+    "Rule ID":"BUR-X007",
+    "Event Type":"Burglary",
+    "Rule Description":"Crawling through small window or back door",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Apartment building, Electronics store, Private house"
+  },
+  {
+    "Rule ID":"BUR-X008",
+    "Event Type":"Burglary",
+    "Rule Description":"Presence in closed building after business hours",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Apartment building, Jewelry store, Warehouse"
+  },
+  {
+    "Rule ID":"BUR-X009",
+    "Event Type":"Burglary",
+    "Rule Description":"Alarm triggered immediately upon entry attempt",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Jewelry store, Apartment building, Electronics store"
+  },
+  {
+    "Rule ID":"BUR-X010",
+    "Event Type":"Burglary",
+    "Rule Description":"Suspect retreats quickly when lights or guards appear",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Apartment building, Private house, Electronics store"
+  },
+  {
+    "Rule ID":"EXP-X001",
+    "Event Type":"Explosion",
+    "Rule Description":"Flash of light followed by shockwave and smoke expansion",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Underground tunnel, Airport baggage area, Factory"
+  },
+  {
+    "Rule ID":"EXP-X002",
+    "Event Type":"Explosion",
+    "Rule Description":"Object placed or thrown, followed by detonation",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Gas station, Underground tunnel, Residential kitchen"
+  },
+  {
+    "Rule ID":"EXP-X003",
+    "Event Type":"Explosion",
+    "Rule Description":"Nearby windows shattered and people pushed back",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Factory, Airport baggage area, Gas station"
+  },
+  {
+    "Rule ID":"EXP-X004",
+    "Event Type":"Explosion",
+    "Rule Description":"Structural collapse captured immediately after blast",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Residential kitchen, Airport baggage area, Underground tunnel"
+  },
+  {
+    "Rule ID":"EXP-X005",
+    "Event Type":"Explosion",
+    "Rule Description":"Fireball seen emerging from vehicle or building",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Airport baggage area, Factory, Underground tunnel"
+  },
+  {
+    "Rule ID":"EXP-X006",
+    "Event Type":"Explosion",
+    "Rule Description":"Falling debris and alarms triggered after blast",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Gas station, Airport baggage area, Underground tunnel"
+  },
+  {
+    "Rule ID":"EXP-X007",
+    "Event Type":"Explosion",
+    "Rule Description":"Person seen triggering remote device before blast",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Underground tunnel, Residential kitchen, Factory"
+  },
+  {
+    "Rule ID":"EXP-X008",
+    "Event Type":"Explosion",
+    "Rule Description":"Explosive placed in bag and left behind before incident",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Airport baggage area, Underground tunnel, Gas station"
+  },
+  {
+    "Rule ID":"EXP-X009",
+    "Event Type":"Explosion",
+    "Rule Description":"Camera feed disrupted at moment of explosion",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Residential kitchen, Airport baggage area, Factory"
+  },
+  {
+    "Rule ID":"EXP-X010",
+    "Event Type":"Explosion",
+    "Rule Description":"Secondary explosions follow initial blast",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Gas station, Underground tunnel, Airport baggage area"
+  },
+  {
+    "Rule ID":"FIG-X001",
+    "Event Type":"Fighting",
+    "Rule Description":"Two or more individuals in repeated mutual striking",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Street corner, School cafeteria, Concert crowd"
+  },
+  {
+    "Rule ID":"FIG-X002",
+    "Event Type":"Fighting",
+    "Rule Description":"Aggressive shoving followed by punches or kicks",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Concert crowd, School cafeteria, Street corner"
+  },
+  {
+    "Rule ID":"FIG-X003",
+    "Event Type":"Fighting",
+    "Rule Description":"Use of belt, chair, or other objects in confrontation",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Train station, School cafeteria, Street corner"
+  },
+  {
+    "Rule ID":"FIG-X004",
+    "Event Type":"Fighting",
+    "Rule Description":"Pulling hair or grabbing clothes during struggle",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Train station, Playground, Street corner"
+  },
+  {
+    "Rule ID":"FIG-X005",
+    "Event Type":"Fighting",
+    "Rule Description":"Bystanders trying to separate or yelling nearby",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Street corner, Concert crowd, Playground"
+  },
+  {
+    "Rule ID":"FIG-X006",
+    "Event Type":"Fighting",
+    "Rule Description":"Continuous physical contact with no break for 10+ seconds",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"School cafeteria, Concert crowd, Playground"
+  },
+  {
+    "Rule ID":"FIG-X007",
+    "Event Type":"Fighting",
+    "Rule Description":"Participants circling or taunting before engagement",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Playground, Street corner, Concert crowd"
+  },
+  {
+    "Rule ID":"FIG-X008",
+    "Event Type":"Fighting",
+    "Rule Description":"Face injuries visible post-altercation",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Street corner, School cafeteria, Concert crowd"
+  },
+  {
+    "Rule ID":"FIG-X009",
+    "Event Type":"Fighting",
+    "Rule Description":"Fight begins in queue, alley, or doorway",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Street corner, Playground, Train station"
+  },
+  {
+    "Rule ID":"FIG-X010",
+    "Event Type":"Fighting",
+    "Rule Description":"Clothing torn or removed during conflict",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Concert crowd, Street corner, Train station"
+  },
+  {
+    "Rule ID":"ROA-X001",
+    "Event Type":"Road Accidents",
+    "Rule Description":"Vehicle collides with pedestrian crossing legally",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Intersection, Tunnel, Urban street"
+  },
+  {
+    "Rule ID":"ROA-X002",
+    "Event Type":"Road Accidents",
+    "Rule Description":"Rear-end collision at traffic light with brake lights on",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Tunnel, Urban street, Intersection"
+  },
+  {
+    "Rule ID":"ROA-X003",
+    "Event Type":"Road Accidents",
+    "Rule Description":"Motorcycle skidding and flipping on wet road",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Tunnel, Highway, Pedestrian crossing"
+  },
+  {
+    "Rule ID":"ROA-X004",
+    "Event Type":"Road Accidents",
+    "Rule Description":"Multi-car crash with parts scattered and smoke",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Highway, Tunnel, Urban street"
+  },
+  {
+    "Rule ID":"ROA-X005",
+    "Event Type":"Road Accidents",
+    "Rule Description":"Sudden lane change leads to sideswipe and spinout",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Intersection, Highway, Tunnel"
+  },
+  {
+    "Rule ID":"ROA-X006",
+    "Event Type":"Road Accidents",
+    "Rule Description":"Driver exits vehicle holding head or limping",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Tunnel, Intersection, Urban street"
+  },
+  {
+    "Rule ID":"ROA-X007",
+    "Event Type":"Road Accidents",
+    "Rule Description":"Crash barrier severely deformed after impact",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Pedestrian crossing, Highway, Tunnel"
+  },
+  {
+    "Rule ID":"ROA-X008",
+    "Event Type":"Road Accidents",
+    "Rule Description":"Accident occurs at known blackspot intersection",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Pedestrian crossing, Highway, Intersection"
+  },
+  {
+    "Rule ID":"ROA-X009",
+    "Event Type":"Road Accidents",
+    "Rule Description":"No brake lights prior to impact (driver inattention)",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Urban street, Highway, Tunnel"
+  },
+  {
+    "Rule ID":"ROA-X010",
+    "Event Type":"Road Accidents",
+    "Rule Description":"Vehicle fire or airbag deployment captured",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Intersection, Highway, Pedestrian crossing"
+  },
+  {
+    "Rule ID":"ROB-X001",
+    "Event Type":"Robbery",
+    "Rule Description":"Suspect holding weapon while demanding cashier to hand over cash",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Convenience store, ATM booth, Bank lobby"
+  },
+  {
+    "Rule ID":"ROB-X002",
+    "Event Type":"Robbery",
+    "Rule Description":"Victim being forcibly stripped of bag or valuables",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Shopping mall, Convenience store, Parking lot"
+  },
+  {
+    "Rule ID":"ROB-X003",
+    "Event Type":"Robbery",
+    "Rule Description":"Suspect pushes or threatens individual before grabbing belongings",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Parking lot, ATM booth, Convenience store"
+  },
+  {
+    "Rule ID":"ROB-X004",
+    "Event Type":"Robbery",
+    "Rule Description":"Gun or knife brandished while crowd backs away",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Shopping mall, ATM booth, Bank lobby"
+  },
+  {
+    "Rule ID":"ROB-X005",
+    "Event Type":"Robbery",
+    "Rule Description":"Motorbike robbery \u2014 rider snatches item and speeds off",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Bank lobby, Parking lot, Convenience store"
+  },
+  {
+    "Rule ID":"ROB-X006",
+    "Event Type":"Robbery",
+    "Rule Description":"Face covered suspect rushes into store shouting",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Convenience store, ATM booth, Bank lobby"
+  },
+  {
+    "Rule ID":"ROB-X007",
+    "Event Type":"Robbery",
+    "Rule Description":"Victim drops items when confronted and runs",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"ATM booth, Convenience store, Shopping mall"
+  },
+  {
+    "Rule ID":"ROB-X008",
+    "Event Type":"Robbery",
+    "Rule Description":"Group of robbers quickly grabbing valuables and escaping",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Convenience store, ATM booth, Parking lot"
+  },
+  {
+    "Rule ID":"ROB-X009",
+    "Event Type":"Robbery",
+    "Rule Description":"Robbery in ATM lobby during early morning\/late night",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Shopping mall, Bank lobby, ATM booth"
+  },
+  {
+    "Rule ID":"ROB-X010",
+    "Event Type":"Robbery",
+    "Rule Description":"Victim frozen or with hands up during confrontation",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Parking lot, ATM booth, Convenience store"
+  },
+  {
+    "Rule ID":"SHO-X001",
+    "Event Type":"Shooting",
+    "Rule Description":"Visible firearm discharged toward people or vehicles",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"School entrance, Parking garage, Concert venue"
+  },
+  {
+    "Rule ID":"SHO-X002",
+    "Event Type":"Shooting",
+    "Rule Description":"Victim collapses immediately after shot fired",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Parking garage, School entrance, Gas station"
+  },
+  {
+    "Rule ID":"SHO-X003",
+    "Event Type":"Shooting",
+    "Rule Description":"Gunman seen loading or cocking weapon before fire",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Protest site, Concert venue, School entrance"
+  },
+  {
+    "Rule ID":"SHO-X004",
+    "Event Type":"Shooting",
+    "Rule Description":"Smoke or flash seen emerging from barrel",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Protest site, Parking garage, Gas station"
+  },
+  {
+    "Rule ID":"SHO-X005",
+    "Event Type":"Shooting",
+    "Rule Description":"People running and ducking for cover after sound",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Parking garage, Concert venue, Protest site"
+  },
+  {
+    "Rule ID":"SHO-X006",
+    "Event Type":"Shooting",
+    "Rule Description":"Gunfire echo followed by screams or scattering crowd",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Parking garage, Protest site, School entrance"
+  },
+  {
+    "Rule ID":"SHO-X007",
+    "Event Type":"Shooting",
+    "Rule Description":"Shooter aims with both hands and moves tactically",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Protest site, School entrance, Concert venue"
+  },
+  {
+    "Rule ID":"SHO-X008",
+    "Event Type":"Shooting",
+    "Rule Description":"Shooting from moving vehicle (drive-by)",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Protest site, Gas station, Concert venue"
+  },
+  {
+    "Rule ID":"SHO-X009",
+    "Event Type":"Shooting",
+    "Rule Description":"Shooter chases fleeing target while firing",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Parking garage, School entrance, Protest site"
+  },
+  {
+    "Rule ID":"SHO-X010",
+    "Event Type":"Shooting",
+    "Rule Description":"Bullet impacts visible on wall or vehicle nearby",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"School entrance, Concert venue, Gas station"
+  },
+  {
+    "Rule ID":"SHO-X001",
+    "Event Type":"Shoplifting",
+    "Rule Description":"Customer puts merchandise inside clothing or personal bag",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Clothing store, Supermarket, Pharmacy"
+  },
+  {
+    "Rule ID":"SHO-X002",
+    "Event Type":"Shoplifting",
+    "Rule Description":"Customer leaves without paying or bypasses counter",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Supermarket, Bookstore, Pharmacy"
+  },
+  {
+    "Rule ID":"SHO-X003",
+    "Event Type":"Shoplifting",
+    "Rule Description":"Tag or label removed and discarded near shelf",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Pharmacy, Clothing store, Supermarket"
+  },
+  {
+    "Rule ID":"SHO-X004",
+    "Event Type":"Shoplifting",
+    "Rule Description":"Customer makes eye contact with staff before concealment",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Bookstore, Pharmacy, Convenience store"
+  },
+  {
+    "Rule ID":"SHO-X005",
+    "Event Type":"Shoplifting",
+    "Rule Description":"Item taken into changing room but never returned",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Clothing store, Convenience store, Pharmacy"
+  },
+  {
+    "Rule ID":"SHO-X006",
+    "Event Type":"Shoplifting",
+    "Rule Description":"Empty package left behind on shelf",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Convenience store, Supermarket, Pharmacy"
+  },
+  {
+    "Rule ID":"SHO-X007",
+    "Event Type":"Shoplifting",
+    "Rule Description":"Multiple small items taken rapidly and hidden",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Bookstore, Supermarket, Clothing store"
+  },
+  {
+    "Rule ID":"SHO-X008",
+    "Event Type":"Shoplifting",
+    "Rule Description":"Person repeatedly revisits same shelf without checkout",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Pharmacy, Clothing store, Bookstore"
+  },
+  {
+    "Rule ID":"SHO-X009",
+    "Event Type":"Shoplifting",
+    "Rule Description":"CCTV temporarily blocked or tilted near incident area",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Bookstore, Pharmacy, Convenience store"
+  },
+  {
+    "Rule ID":"SHO-X010",
+    "Event Type":"Shoplifting",
+    "Rule Description":"Suspect fakes phone call or distraction before action",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Supermarket, Bookstore, Clothing store"
+  },
+  {
+    "Rule ID":"STE-X001",
+    "Event Type":"Stealing",
+    "Rule Description":"Unattended bag or device taken and hidden in pocket",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Library, Gym locker room, Bus stop"
+  },
+  {
+    "Rule ID":"STE-X002",
+    "Event Type":"Stealing",
+    "Rule Description":"Pickpocketing wallet from crowded public space",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Gym locker room, Library, Office"
+  },
+  {
+    "Rule ID":"STE-X003",
+    "Event Type":"Stealing",
+    "Rule Description":"Snatching phone from person using it",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Caf\u00e9, Gym locker room, Library"
+  },
+  {
+    "Rule ID":"STE-X004",
+    "Event Type":"Stealing",
+    "Rule Description":"Opening parked vehicle and removing items",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Office, Bus stop, Caf\u00e9"
+  },
+  {
+    "Rule ID":"STE-X005",
+    "Event Type":"Stealing",
+    "Rule Description":"Bicycle lock broken or cut before removal",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Bus stop, Library, Gym locker room"
+  },
+  {
+    "Rule ID":"STE-X006",
+    "Event Type":"Stealing",
+    "Rule Description":"Delivery package stolen from doorstep",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Bus stop, Caf\u00e9, Library"
+  },
+  {
+    "Rule ID":"STE-X007",
+    "Event Type":"Stealing",
+    "Rule Description":"Valuables removed from backpack in queue",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Caf\u00e9, Office, Library"
+  },
+  {
+    "Rule ID":"STE-X008",
+    "Event Type":"Stealing",
+    "Rule Description":"Thief distracts victim while partner grabs object",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Office, Gym locker room, Caf\u00e9"
+  },
+  {
+    "Rule ID":"STE-X009",
+    "Event Type":"Stealing",
+    "Rule Description":"Valuable item replaced with fake or empty box",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Caf\u00e9, Gym locker room, Library"
+  },
+  {
+    "Rule ID":"STE-X010",
+    "Event Type":"Stealing",
+    "Rule Description":"Locker broken or forcibly opened in gym\/public place",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Office, Bus stop, Library"
+  },
+  {
+    "Rule ID":"VAN-X001",
+    "Event Type":"Vandalism",
+    "Rule Description":"Spray painting walls, doors or vehicles with graffiti",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Building exterior, Restroom, Bus terminal"
+  },
+  {
+    "Rule ID":"VAN-X002",
+    "Event Type":"Vandalism",
+    "Rule Description":"Breaking security cameras or streetlights deliberately",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Parking lot, Train station, Building exterior"
+  },
+  {
+    "Rule ID":"VAN-X003",
+    "Event Type":"Vandalism",
+    "Rule Description":"Smashing car windows or side mirrors",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"High",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Restroom, Bus terminal, Building exterior"
+  },
+  {
+    "Rule ID":"VAN-X004",
+    "Event Type":"Vandalism",
+    "Rule Description":"Damaging public displays or ticket machines",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Bus terminal, Parking lot, Restroom"
+  },
+  {
+    "Rule ID":"VAN-X005",
+    "Event Type":"Vandalism",
+    "Rule Description":"Writing offensive messages on surfaces",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Parking lot, Restroom, Train station"
+  },
+  {
+    "Rule ID":"VAN-X006",
+    "Event Type":"Vandalism",
+    "Rule Description":"Kicking over trash bins or signboards",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Restroom, Bus terminal, Building exterior"
+  },
+  {
+    "Rule ID":"VAN-X007",
+    "Event Type":"Vandalism",
+    "Rule Description":"Using key or object to scratch surfaces",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Parking lot, Bus terminal, Building exterior"
+  },
+  {
+    "Rule ID":"VAN-X008",
+    "Event Type":"Vandalism",
+    "Rule Description":"Bending signposts or poles with force",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Bus terminal, Train station, Parking lot"
+  },
+  {
+    "Rule ID":"VAN-X009",
+    "Event Type":"Vandalism",
+    "Rule Description":"Public art installation defaced or dismantled",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Train station, Building exterior, Restroom"
+  },
+  {
+    "Rule ID":"VAN-X010",
+    "Event Type":"Vandalism",
+    "Rule Description":"Removing or defacing surveillance warning signs",
+    "Applicable Scenes":"Various public or private surveillance environments",
+    "Priority":"Medium",
+    "Subtype":null,
+    "Specific Applicable Scenes":"Train station, Building exterior, Parking lot"
+  }
+]

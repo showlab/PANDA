@@ -1,0 +1,100 @@
+abnormal_scene_13_scenario_2_fog.mp4 0 450
+abnormal_scene_13_scenario_3_fog.mp4 0 450
+abnormal_scene_1_scenario_7.mp4 29 76
+abnormal_scene_1_scenario_9.mp4 175 228
+abnormal_scene_9_scenario_3.mp4 0 450
+abnormal_scene_9_scenario_4_fog.mp4 94 208 294 400
+normal_scene_11_scenario_2_fog.mp4 -1  -1  -1  -1
+normal_scene_11_scenario_4_fog.mp4 -1  -1  -1  -1
+normal_scene_13_scenario_1_fog.mp4 -1  -1  -1  -1
+normal_scene_8_scenario_2_fog.mp4 -1  -1  -1  -1
+normal_scene_9_scenario_4_fog.mp4 -1  -1  -1  -1
+v=BQjKQbYgUBA__#1_label_B1-0-0.mp4 635 667 733 759 932 1020 1234 1297 1977 2373 3195 3422
+v=-fOWSLV6Esw__#1_label_B4-0-0.mp4 20 772
+Black.Hawk.Down.2001__#01-42-58_01-43-58_label_G-0-0.mp4 406 505
+v=Ia9ATKNeUbY__#00-04-19_00-05-11_label_B6-0-0.mp4 27 133 274 510 1137 1170
+v=Ia9ATKNeUbY__#00-06-19_00-06-50_label_B6-0-0.mp4 246 290 427 527 687 744
+v=MqrNCb2N5to__#1_label_B1-0-0.mp4 247 425 1495 1666 1852 1950 2219 2450
+Operation.Red.Sea.2018__#01-20-58_01-22-00_label_B5-0-0.mp4 1271 1336
+v=FW_qbiPH7UA__#1_label_B1-0-0.mp4 1654 2080 2367 2745
+GoldenEye.1995__#01-17-05_01-19-57_label_B2-B1-0.mp4 232 260 728 990 1200 1591 1700 1765 2959 3402 3631 3769 3995 4122
+v=BzwNU2xmT64__#00-04-10_00-06-09_label_B6-0-0.mp4 27 160 500 560 843 888 1060 1160 1360 1510 1637 1685 1840 1880 2233 2320
+Spectre.2015__#01-08-58_01-09-20_label_B1-B2-0.mp4 50 100 295 320 330 355
+v=lpkL0Y1MhA8__#1_label_B4-0-0.mp4 0 248 397 585 1165 1940 2393 2523
+Bullet.in.the.Head.1990__#00-23-31_00-24-40_label_G-0-0.mp4 1325 1400
+A.Beautiful.Mind.2001__#00-40-52_00-42-01_label_A.mp4 -1  -1  -1  -1
+A.Beautiful.Mind.2001__#01-14-30_01-16-59_label_A.mp4 -1  -1  -1  -1
+About.Time.2013__#00-23-50_00-24-31_label_A.mp4 -1  -1  -1  -1
+About.Time.2013__#00-30-50_00-32-31_label_A.mp4 -1  -1  -1  -1
+About.Time.2013__#00-40-52_00-42-31_label_A.mp4 -1  -1  -1  -1
+Be.with.You.2018__#00-04-20_00-05-35_label_A.mp4 -1  -1  -1  -1
+Be.with.You.2018__#00-23-50_00-24-31_label_A.mp4 -1  -1  -1  -1
+Before.Sunrise.1995__#00-03-00_00-04-05_label_A.mp4 -1  -1  -1  -1
+Before.Sunrise.1995__#00-04-20_00-05-35_label_A.mp4 -1  -1  -1  -1
+Before.Sunrise.1995__#00-23-50_00-24-31_label_A.mp4 -1  -1  -1  -1
+Normal_Videos_897_x264.mp4 -1  -1  -1  -1
+Arson007_x264.mp4  2250  5700  -1  -1
+Arson009_x264.mp4  220  315  -1  -1
+Arson010_x264.mp4  885  1230  -1  -1
+Burglary005_x264.mp4  4710  5040  -1  -1
+Burglary018_x264.mp4  720  1050  -1  -1
+Burglary032_x264.mp4  1290  3690  -1  -1
+Burglary035_x264.mp4  1  1740  -1  -1
+Burglary079_x264.mp4  7750  10710  -1  -1
+Explosion011_x264.mp4  795  945  -1  -1
+Explosion028_x264.mp4  280  700  -1  -1
+Normal_Videos_006_x264.mp4  -1  -1  -1  -1
+Normal_Videos_010_x264.mp4  -1  -1  -1  -1
+Normal_Videos_015_x264.mp4  -1  -1  -1  -1
+Normal_Videos_018_x264.mp4  -1  -1  -1  -1
+Normal_Videos_019_x264.mp4  -1  -1  -1  -1
+Normal_Videos_024_x264.mp4  -1  -1  -1  -1
+Normal_Videos_025_x264.mp4  -1  -1  -1  -1
+Normal_Videos_041_x264.mp4  -1  -1  -1  -1
+Normal_Videos_048_x264.mp4  -1  -1  -1  -1
+Normal_Videos_100_x264.mp4  -1  -1  -1  -1
+Normal_Videos_129_x264.mp4  -1  -1  -1  -1
+Normal_Videos_189_x264.mp4  -1  -1  -1  -1
+Normal_Videos_345_x264.mp4  -1  -1  -1  -1
+Normal_Videos_452_x264.mp4  -1  -1  -1  -1
+Normal_Videos_251_x264.mp4  -1  -1  -1  -1
+Normal_Videos_686_x264.mp4  -1  -1  -1  -1
+Normal_Videos_725_x264.mp4  -1  -1  -1  -1
+Normal_Videos_745_x264.mp4  -1  -1  -1  -1
+Normal_Videos_828_x264.mp4  -1  -1  -1  -1
+Normal_Videos_831_x264.mp4  -1  -1  -1  -1
+Normal_Videos_870_x264.mp4  -1  -1  -1  -1
+Normal_Videos_872_x264.mp4  -1  -1  -1  -1
+Normal_Videos_876_x264.mp4  -1  -1  -1  -1
+Normal_Videos_881_x264.mp4  -1  -1  -1  -1
+Normal_Videos_882_x264.mp4  -1  -1  -1  -1
+Normal_Videos_883_x264.mp4  -1  -1  -1  -1
+Normal_Videos_885_x264.mp4  -1  -1  -1  -1
+Normal_Videos_888_x264.mp4  -1  -1  -1  -1
+Normal_Videos_891_x264.mp4  -1  -1  -1  -1
+Normal_Videos_892_x264.mp4  -1  -1  -1  -1
+Normal_Videos_901_x264.mp4  -1  -1  -1  -1
+Normal_Videos_904_x264.mp4  -1  -1  -1  -1
+Normal_Videos_906_x264.mp4  -1  -1  -1  -1
+Normal_Videos_908_x264.mp4  -1  -1  -1  -1
+RoadAccidents001_x264.mp4  210  300  -1  -1
+RoadAccidents009_x264.mp4  210  240  -1  -1
+RoadAccidents017_x264.mp4  60  130  -1  -1
+RoadAccidents123_x264.mp4  130  210  -1  -1
+RoadAccidents128_x264.mp4  90  200  -1  -1
+RoadAccidents131_x264.mp4  180  240  -1  -1
+RoadAccidents132_x264.mp4  220  320  -1  -1
+Robbery050_x264.mp4  495  1410  -1  -1
+Robbery106_x264.mp4  480  600  -1  -1
+Shooting002_x264.mp4  1020  1100  -1  -1
+Shooting007_x264.mp4  45  165  -1  -1
+Shooting021_x264.mp4  480  630  -1  -1
+Shooting013_x264.mp4  860  945  -1  -1
+Shoplifting005_x264.mp4  720  930  -1  -1
+Shoplifting015_x264.mp4  2010  2160  -1  -1
+Shoplifting016_x264.mp4  630  720  -1  -1
+Shoplifting028_x264.mp4  570  840  -1  -1
+Shoplifting029_x264.mp4  1020  1470  -1  -1
+Shoplifting031_x264.mp4  120  330  -1  -1
+Stealing062_x264.mp4  360  1050  -1  -1
+Vandalism028_x264.mp4  1830  1980  2400  2670

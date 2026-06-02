@@ -1,0 +1,542 @@
+[
+  {
+    "Rule ID": "FAS-X001",
+    "Event Type": "Fast Running",
+    "Rule Description": "Student sprints at full speed across pedestrian walkway",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "FAS-X002",
+    "Event Type": "Fast Running",
+    "Rule Description": "Sudden fast running causes others to dodge",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "FAS-X003",
+    "Event Type": "Fast Running",
+    "Rule Description": "Rapid sprinting from classroom building to gate",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "FAS-X004",
+    "Event Type": "Fast Running",
+    "Rule Description": "Running across corridor with bag bouncing heavily",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "FAS-X005",
+    "Event Type": "Fast Running",
+    "Rule Description": "Fast footsteps followed by abrupt turns around corners",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "FAS-X006",
+    "Event Type": "Fast Running",
+    "Rule Description": "Student runs down stairs skipping steps dangerously",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "FAS-X007",
+    "Event Type": "Fast Running",
+    "Rule Description": "Two individuals race side-by-side through courtyard",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "FAS-X008",
+    "Event Type": "Fast Running",
+    "Rule Description": "Person running past entrance security without stopping",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "FAS-X009",
+    "Event Type": "Fast Running",
+    "Rule Description": "Running disrupts seated students in open space",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "FAS-X010",
+    "Event Type": "Fast Running",
+    "Rule Description": "Fast running across crosswalk despite red signal",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "ABN-X001",
+    "Event Type": "Abnormal Movement on Sidewalk",
+    "Rule Description": "Student jumping repeatedly while walking on sidewalk",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "ABN-X002",
+    "Event Type": "Abnormal Movement on Sidewalk",
+    "Rule Description": "Exaggerated arm gestures and spinning on pedestrian path",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "ABN-X003",
+    "Event Type": "Abnormal Movement on Sidewalk",
+    "Rule Description": "Zigzag walking while waving hands erratically",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "ABN-X004",
+    "Event Type": "Abnormal Movement on Sidewalk",
+    "Rule Description": "Person does squats or dance movements near walkway",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "ABN-X005",
+    "Event Type": "Abnormal Movement on Sidewalk",
+    "Rule Description": "Student crawls or rolls briefly on path",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "ABN-X006",
+    "Event Type": "Abnormal Movement on Sidewalk",
+    "Rule Description": "Excessive pacing and stretching in same location",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "ABN-X007",
+    "Event Type": "Abnormal Movement on Sidewalk",
+    "Rule Description": "Skipping in public walkway where others walk normally",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "ABN-X008",
+    "Event Type": "Abnormal Movement on Sidewalk",
+    "Rule Description": "Sudden bending, lunging or spinning around while walking",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "ABN-X009",
+    "Event Type": "Abnormal Movement on Sidewalk",
+    "Rule Description": "Acting out or pretending to fly on walkway",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "ABN-X010",
+    "Event Type": "Abnormal Movement on Sidewalk",
+    "Rule Description": "Student disrupts others by hopping into their path",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "THR-X001",
+    "Event Type": "Throwing Objects into Air",
+    "Rule Description": "Student throws books into air near campus road",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "THR-X002",
+    "Event Type": "Throwing Objects into Air",
+    "Rule Description": "Object like bottle or bag tossed high into sky",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "THR-X003",
+    "Event Type": "Throwing Objects into Air",
+    "Rule Description": "Paper or trash launched upward intentionally",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "THR-X004",
+    "Event Type": "Throwing Objects into Air",
+    "Rule Description": "Backpack thrown upward near school entrance",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "THR-X005",
+    "Event Type": "Throwing Objects into Air",
+    "Rule Description": "Two students play by tossing object upward repeatedly",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "THR-X006",
+    "Event Type": "Throwing Objects into Air",
+    "Rule Description": "Item thrown skyward and lands near others",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "THR-X007",
+    "Event Type": "Throwing Objects into Air",
+    "Rule Description": "Object hits tree or structure after upward throw",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "THR-X008",
+    "Event Type": "Throwing Objects into Air",
+    "Rule Description": "Throwing into air causes nearby people to flinch",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "THR-X009",
+    "Event Type": "Throwing Objects into Air",
+    "Rule Description": "High throw triggers attention from staff or camera",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "THR-X010",
+    "Event Type": "Throwing Objects into Air",
+    "Rule Description": "Throwing occurs beside building or parked vehicle",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "WAL-X001",
+    "Event Type": "Walking Bike on Sidewalk",
+    "Rule Description": "Student pushes bicycle along crowded sidewalk",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "WAL-X002",
+    "Event Type": "Walking Bike on Sidewalk",
+    "Rule Description": "Bike walked next to person while weaving through peers",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "WAL-X003",
+    "Event Type": "Walking Bike on Sidewalk",
+    "Rule Description": "Pushing bicycle through entrance area with others walking",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "WAL-X004",
+    "Event Type": "Walking Bike on Sidewalk",
+    "Rule Description": "Person guides bicycle on crosswalk while walking beside it",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "WAL-X005",
+    "Event Type": "Walking Bike on Sidewalk",
+    "Rule Description": "Bicycle pushed while student chats or uses phone",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "WAL-X006",
+    "Event Type": "Walking Bike on Sidewalk",
+    "Rule Description": "Two students walk with bikes taking full width of sidewalk",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "WAL-X007",
+    "Event Type": "Walking Bike on Sidewalk",
+    "Rule Description": "Bike parked then walked again without riding",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "WAL-X008",
+    "Event Type": "Walking Bike on Sidewalk",
+    "Rule Description": "Walking bike through food court or recreational area",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "WAL-X009",
+    "Event Type": "Walking Bike on Sidewalk",
+    "Rule Description": "Pushed bicycle blocks others on narrow path",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "WAL-X010",
+    "Event Type": "Walking Bike on Sidewalk",
+    "Rule Description": "Repeated pushing of bike back and forth on sidewalk",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "STE-X001",
+    "Event Type": "Stepping on Grass",
+    "Rule Description": "Student walks across lawn area despite paved path nearby",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "STE-X002",
+    "Event Type": "Stepping on Grass",
+    "Rule Description": "Path deviation through grass to shortcut building",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "STE-X003",
+    "Event Type": "Stepping on Grass",
+    "Rule Description": "Group cuts through planted grass zone together",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "STE-X004",
+    "Event Type": "Stepping on Grass",
+    "Rule Description": "Walking over flower bed beside main walkway",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "STE-X005",
+    "Event Type": "Stepping on Grass",
+    "Rule Description": "Shoes leave mud trail after grass crossing",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "STE-X006",
+    "Event Type": "Stepping on Grass",
+    "Rule Description": "Security camera captures grass being flattened by feet",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "STE-X007",
+    "Event Type": "Stepping on Grass",
+    "Rule Description": "Student leaps from sidewalk into grass for shortcut",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "STE-X008",
+    "Event Type": "Stepping on Grass",
+    "Rule Description": "Carrying object while stepping through grass median",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "STE-X009",
+    "Event Type": "Stepping on Grass",
+    "Rule Description": "Running across lawn while others follow same route",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "STE-X010",
+    "Event Type": "Stepping on Grass",
+    "Rule Description": "Student stands or sits briefly on landscaped grass zone",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "LOI-X001",
+    "Event Type": "Loitering at Camera Edge",
+    "Rule Description": "Person repeatedly appears at edge of camera and lingers",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "LOI-X002",
+    "Event Type": "Loitering at Camera Edge",
+    "Rule Description": "Individual stands near frame boundary looking around",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "LOI-X003",
+    "Event Type": "Loitering at Camera Edge",
+    "Rule Description": "Loitering detected at fringe of hallway camera view",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "LOI-X004",
+    "Event Type": "Loitering at Camera Edge",
+    "Rule Description": "Student seen pacing just outside center view",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "LOI-X005",
+    "Event Type": "Loitering at Camera Edge",
+    "Rule Description": "Person peeks in and out of edge of surveillance frame",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "LOI-X006",
+    "Event Type": "Loitering at Camera Edge",
+    "Rule Description": "Presence partially visible at corner of camera feed",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "LOI-X007",
+    "Event Type": "Loitering at Camera Edge",
+    "Rule Description": "Loitering near blind spot transitions into full appearance",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "LOI-X008",
+    "Event Type": "Loitering at Camera Edge",
+    "Rule Description": "Student waits at camera edge without clear activity",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "LOI-X009",
+    "Event Type": "Loitering at Camera Edge",
+    "Rule Description": "Movement at edge persists across multiple frames",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  },
+  {
+    "Rule ID": "LOI-X010",
+    "Event Type": "Loitering at Camera Edge",
+    "Rule Description": "Camera shows repeated entry-exit at edge zone",
+    "Applicable Scenes": "Campus sidewalks, walkways, open spaces, entrances, and recreational zones",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Campus pedestrian zones, grass lawns, entrances, surveillance edge areas"
+  }
+]

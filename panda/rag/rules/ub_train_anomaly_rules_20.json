@@ -1,0 +1,1082 @@
+[
+  {
+    "Rule ID": "FAL-X001",
+    "Event Type": "Falling",
+    "Rule Description": "Person collapses suddenly onto ground while walking",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X002",
+    "Event Type": "Falling",
+    "Rule Description": "Student falls backward near staircase or ledge",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X003",
+    "Event Type": "Falling",
+    "Rule Description": "Individual slips and lands on side near curb",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X004",
+    "Event Type": "Falling",
+    "Rule Description": "Fall occurs in middle of crowded walkway",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X005",
+    "Event Type": "Falling",
+    "Rule Description": "Tripping causes person to hit hands or knees",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X006",
+    "Event Type": "Falling",
+    "Rule Description": "Person stumbles over obstacle and hits pavement",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X007",
+    "Event Type": "Falling",
+    "Rule Description": "Unexpected fall during group movement",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X008",
+    "Event Type": "Falling",
+    "Rule Description": "Loss of balance during turn causes drop",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X009",
+    "Event Type": "Falling",
+    "Rule Description": "Student falls when bumped by another individual",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X010",
+    "Event Type": "Falling",
+    "Rule Description": "Falling while running fast across campus",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X011",
+    "Event Type": "Falling",
+    "Rule Description": "Person falls while carrying bag or object",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X012",
+    "Event Type": "Falling",
+    "Rule Description": "Sudden collapse at entrance of a building",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X013",
+    "Event Type": "Falling",
+    "Rule Description": "Fall onto lawn from sidewalk",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X014",
+    "Event Type": "Falling",
+    "Rule Description": "Sliding fall during rainy or wet condition",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X015",
+    "Event Type": "Falling",
+    "Rule Description": "Fall near parking zone or bollards",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X016",
+    "Event Type": "Falling",
+    "Rule Description": "Fall while interacting with others",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X017",
+    "Event Type": "Falling",
+    "Rule Description": "Falling on ramp or slope inside campus",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X018",
+    "Event Type": "Falling",
+    "Rule Description": "Person briefly kneels after losing balance",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X019",
+    "Event Type": "Falling",
+    "Rule Description": "Slip while stepping off bicycle",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "FAL-X020",
+    "Event Type": "Falling",
+    "Rule Description": "Falling backward after trying to sit or lean",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X001",
+    "Event Type": "Dancing",
+    "Rule Description": "Person performs dance moves in center of square",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X002",
+    "Event Type": "Dancing",
+    "Rule Description": "Student dances in front of classroom building",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X003",
+    "Event Type": "Dancing",
+    "Rule Description": "Group performs synchronized steps on sidewalk",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X004",
+    "Event Type": "Dancing",
+    "Rule Description": "Dancing accompanied by loud music in public area",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X005",
+    "Event Type": "Dancing",
+    "Rule Description": "Flash-mob style movement on campus pathway",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X006",
+    "Event Type": "Dancing",
+    "Rule Description": "Individual twirls repeatedly in gathering area",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X007",
+    "Event Type": "Dancing",
+    "Rule Description": "Foot tapping and rhythmic hand motion in plaza",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X008",
+    "Event Type": "Dancing",
+    "Rule Description": "Dance-like jumping while others are walking",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X009",
+    "Event Type": "Dancing",
+    "Rule Description": "Impromptu performance on stair landing",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X010",
+    "Event Type": "Dancing",
+    "Rule Description": "Dancing while filming with mobile phone",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X011",
+    "Event Type": "Dancing",
+    "Rule Description": "Persistent rhythmic movement during class break",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X012",
+    "Event Type": "Dancing",
+    "Rule Description": "Dance moves in dormitory entrance or lobby",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X013",
+    "Event Type": "Dancing",
+    "Rule Description": "Student dances alone near lecture hall steps",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X014",
+    "Event Type": "Dancing",
+    "Rule Description": "Choreographed movement involving 2 or more persons",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X015",
+    "Event Type": "Dancing",
+    "Rule Description": "Dance activity with props or costumes in public",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X016",
+    "Event Type": "Dancing",
+    "Rule Description": "Performance that interrupts foot traffic",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X017",
+    "Event Type": "Dancing",
+    "Rule Description": "Dancing in dining or recreational area unexpectedly",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X018",
+    "Event Type": "Dancing",
+    "Rule Description": "Fast-paced motion interpreted as dance gesture",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X019",
+    "Event Type": "Dancing",
+    "Rule Description": "Body movements clearly following rhythm/music",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "DAN-X020",
+    "Event Type": "Dancing",
+    "Rule Description": "Repeated practice of dance steps in academic zone",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X001",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Person limping with one leg visibly weaker",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X002",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Student walks slowly while holding hip or leg",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X003",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Individual uses improvised crutch or cane",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X004",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Walking posture bent due to injury",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X005",
+    "Event Type": "Walking Injured",
+    "Rule Description": "One hand supporting knee during movement",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X006",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Visible discomfort while walking through square",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X007",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Dragging foot along pavement while walking",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X008",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Walking while periodically stopping in pain",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X009",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Body tilted to one side while walking",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X010",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Favoring one leg significantly over the other",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X011",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Student walks slowly with bandaged leg",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X012",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Walking while leaning on a friend for support",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X013",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Walk shows instability and unsteady pace",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X014",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Painful walking after earlier fall incident",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X015",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Swaying gait with cautious foot placement",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X016",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Exaggerated upper body motion to aid walking",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X017",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Injury-related imbalance while navigating stairs",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X018",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Student appears to avoid pressure on one foot",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X019",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Slow movement despite crowd walking normally",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "WAL-X020",
+    "Event Type": "Walking Injured",
+    "Rule Description": "Visible grimace accompanying each step",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X001",
+    "Event Type": "Running Injured",
+    "Rule Description": "Person limps while trying to run across field",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X002",
+    "Event Type": "Running Injured",
+    "Rule Description": "Unnatural arm-leg coordination during running",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X003",
+    "Event Type": "Running Injured",
+    "Rule Description": "Short burst of running interrupted by pain",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X004",
+    "Event Type": "Running Injured",
+    "Rule Description": "Injured runner stumbles mid-stride",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X005",
+    "Event Type": "Running Injured",
+    "Rule Description": "Running while holding side or leg",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X006",
+    "Event Type": "Running Injured",
+    "Rule Description": "One foot drags during attempted sprint",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X007",
+    "Event Type": "Running Injured",
+    "Rule Description": "Visible discomfort while fleeing a location",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X008",
+    "Event Type": "Running Injured",
+    "Rule Description": "Irregular rhythm in steps while running",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X009",
+    "Event Type": "Running Injured",
+    "Rule Description": "Frequent pauses during running attempt",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X010",
+    "Event Type": "Running Injured",
+    "Rule Description": "Run interrupted by hop or skip due to pain",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X011",
+    "Event Type": "Running Injured",
+    "Rule Description": "Running with arm braced or immobile",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X012",
+    "Event Type": "Running Injured",
+    "Rule Description": "Leg bends awkwardly while running",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X013",
+    "Event Type": "Running Injured",
+    "Rule Description": "Student tries to run but slows rapidly",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X014",
+    "Event Type": "Running Injured",
+    "Rule Description": "Injured runner leans heavily while moving",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X015",
+    "Event Type": "Running Injured",
+    "Rule Description": "Asymmetric stride in run visible on camera",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X016",
+    "Event Type": "Running Injured",
+    "Rule Description": "Multiple failed starts to run forward",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X017",
+    "Event Type": "Running Injured",
+    "Rule Description": "Avoidance of foot contact while running",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X018",
+    "Event Type": "Running Injured",
+    "Rule Description": "Unstable landing after jump while running",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X019",
+    "Event Type": "Running Injured",
+    "Rule Description": "Student runs with help or support",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "RUN-X020",
+    "Event Type": "Running Injured",
+    "Rule Description": "Running visibly affected by past injury",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X001",
+    "Event Type": "Crawling",
+    "Rule Description": "Student crawls on all fours across hallway",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X002",
+    "Event Type": "Crawling",
+    "Rule Description": "Individual moves on hands and knees near bench",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X003",
+    "Event Type": "Crawling",
+    "Rule Description": "Crawling behind wall or bush within plaza",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X004",
+    "Event Type": "Crawling",
+    "Rule Description": "Low-profile movement through corridor",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X005",
+    "Event Type": "Crawling",
+    "Rule Description": "Crawling to retrieve object under table",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X006",
+    "Event Type": "Crawling",
+    "Rule Description": "Movement on elbows and knees in open space",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X007",
+    "Event Type": "Crawling",
+    "Rule Description": "Crawl occurs beside crowd unnoticed at first",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X008",
+    "Event Type": "Crawling",
+    "Rule Description": "Sudden switch from walk to crawl behavior",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X009",
+    "Event Type": "Crawling",
+    "Rule Description": "Crawling out of frame under obstruction",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X010",
+    "Event Type": "Crawling",
+    "Rule Description": "Person crawls under turnstile or barrier",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X011",
+    "Event Type": "Crawling",
+    "Rule Description": "Intentional low crawl across path for attention",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X012",
+    "Event Type": "Crawling",
+    "Rule Description": "Playful crawl during interaction with friends",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X013",
+    "Event Type": "Crawling",
+    "Rule Description": "Crawl initiated due to prank or dare",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X014",
+    "Event Type": "Crawling",
+    "Rule Description": "Crawling through grass to avoid being seen",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X015",
+    "Event Type": "Crawling",
+    "Rule Description": "Crossing room on knees and elbows",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X016",
+    "Event Type": "Crawling",
+    "Rule Description": "Student crawls under row of benches",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X017",
+    "Event Type": "Crawling",
+    "Rule Description": "Forward crawl across lobby area",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X018",
+    "Event Type": "Crawling",
+    "Rule Description": "Side crawl across tiled floor",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X019",
+    "Event Type": "Crawling",
+    "Rule Description": "Crawling while carrying an object",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "CRA-X020",
+    "Event Type": "Crawling",
+    "Rule Description": "Unexpected crawling near dormitory entrance",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X001",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Student takes multiple unstable steps in row",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X002",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Person stumbles forward and regains balance",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "High",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X003",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Visible misstep on stairs or slope",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X004",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Stumble after avoiding pedestrian",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X005",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Foot slips briefly while walking",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X006",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Two stumbles within short walking distance",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X007",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Wobbling gait seen during normal pace",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X008",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Stumble triggers nearby concern or reaction",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X009",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Misstep followed by exaggerated recovery",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X010",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Person drags feet after repeated stumbles",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X011",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Tripping over small curb or divider",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X012",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Hesitant steps across uneven path",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X013",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Uncoordinated foot placement while walking",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X014",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Visible ankle twist leads to stumble",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X015",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Side-stepping while nearly falling",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X016",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Stumble occurs mid-conversation with others",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X017",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Stumbling due to fatigue or weakness",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X018",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Foot caught in clothing during walk",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X019",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Walking interrupted by brief loss of balance",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  },
+  {
+    "Rule ID": "STU-X020",
+    "Event Type": "Stumbling Walk",
+    "Rule Description": "Student catches self on nearby object after trip",
+    "Applicable Scenes": "Campus sidewalks, open areas, hallways, plazas, classrooms",
+    "Priority": "Medium",
+    "Subtype": NaN,
+    "Specific Applicable Scenes": "Walkways, stairs, squares, entrances, corners, or zones with surveillance"
+  }
+]
